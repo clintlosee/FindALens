@@ -1,25 +1,93 @@
 'use strict';
 
-module.exports = function(grunt) {
-	// Project configuration.
+module.exports = function(grunt){
+	
+	// Initialize Grunt
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
+		
+		// SASS
 		sass: {
 			dist: {
 				files: {
-					'app/css/app.css' : ['app/sass/**/*.scss']
+					'app/css/app.css' : ['app/components/styles/**/*.scss']
 				}
 			}
 		},
-		watch: {
-			css: {
-				files: '**/*.scss',
-				tasks: ['sass']
-			}
-		}
-	});
-	grunt.loadNpmTasks('grunt-contrib-sass');
-	grunt.loadNpmTasks('grunt-contrib-watch');
-	grunt.registerTask('default', ['watch']);
 
-}
+		// Uglify
+		uglify: {
+			frameworks: {
+				files: {
+					'app/scripts/jquery.min.js': ['bower_components/jquery/dist/jquery.js'],
+					'app/scripts/angular.min.js': ['bower_components/angular/angular.js'],
+					'app/scripts/angular.modules.min.js': [
+						'bower_components/angular-route/angular-route.js',
+						'bower_components/angular-loader/angular-loader.js',
+						'bower_components/angular-mocks/angular-mocks.js',
+						'bower_components/angular-resource/angular-resource.js',
+						'bower_components/angular-animate/angular-animate.js'],
+					'app/scripts/frame.min.js': [
+						'bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js',
+						'bower_components/bootstrap/dist/js/bootstrap.js']
+				}
+			},
+			scripts: {
+				files: {
+					'app/scripts/app.min.js': ['app/components/scripts/**/*.js']
+				}
+			}
+		},
+		
+		// Concatenate
+		concat: {
+			frameworks: {
+				files: {
+					'app/styles/frame.css': [
+						'bower_components/html5-boilerplate/css/normalize.css',
+						'bower_components/html5-boilerplate/css/main.css',
+						'bower_components/bootstrap/dist/css/bootstrap.css',
+						'bower_components/bootstrap/dist/css/bootstrap-theme.css']
+				}
+			},
+			controllers: {
+				files: {
+					'app/scripts/controllers.js': ['app/components/controllers/**/*.js']
+				}
+			}
+		},
+		
+		// Minify 
+		cssmin: {
+			frameworks: {
+				src: 'app/styles/frame.css',
+				dest: 'app/styles/frame.min.css'
+			}
+		},
+		
+		// Watch
+		watch: {
+			files: [
+				'app/components/controllers/*',
+				'app/components/routes/*',
+				'app/components/scripts/*',
+				'app/components/styles/*',
+				'app/components/version/*'
+			],
+			tasks: ['uglify', 'concat', 'sass', 'cssmin']
+		}
+		
+	});
+	
+	// Load NPM Contributions
+	grunt.loadNpmTasks('grunt-contrib-sass');
+	grunt.loadNpmTasks('grunt-contrib-concat');
+	grunt.loadNpmTasks('grunt-contrib-uglify');
+	grunt.loadNpmTasks('grunt-contrib-cssmin');
+	grunt.loadNpmTasks('grunt-contrib-watch');
+	
+	// Register Grunt Tasks
+	grunt.registerTask('default', ['uglify', 'concat', 'sass', 'cssmin', 'watch']);
+	
+};
+
