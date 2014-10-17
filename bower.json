@@ -1,16 +1,11 @@
 {
   "name": "DigitalFlash",
-  "description": "Bower package install for DigitalFlash.",
-  "homepage": "https://github.com/AustinClift/DigitalFlash",
+  "description": "Bower package install for FinALens App.",
+  "homepage": "https://github.com/clintlosee/FindALens",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "authors": [
-    "Austin Clift",
-    "Brennan Davis",
-    "Jordan Larkin",
-    "Clint Losee"
-  ],
+  "authors": "Clint Losee",
   "moduleType": [
     "globals",
     "node",

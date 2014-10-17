@@ -1,4 +1,5 @@
 # BELOW IS THE BASE README.MD FILE FROM ANGULAR-SEED FOR REFERENCE #
+## Updated Find-A-Lens Project ##
 -----------------------------------------------------------------------------
 
 # angular-seed — the seed for AngularJS apps
