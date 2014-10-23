@@ -1,0 +1,967 @@
+[
+    {
+        "brand": "Canon", 
+        "model": "EF 16-35mm f/4L IS USM",
+		"price": "1199",
+		"aperture": "f/4",
+		"focalRange": "16-35",
+		"filterSize": "77mm",
+		"mount": "Canon EF",
+		"stabilization": true,
+		"afmotor": "USM",
+		"zoomType": "Ring",
+		"frontElementRotate": false,
+		"tripodMount": false,
+		"color": "Black",
+		"manualFocus": true,
+		"lensElements": {
+			"numberOfLenses": "16",
+			"numberOfGroups": "12",
+			"diaphragmBlades": "9",
+		},
+		"sizeAndWeight": {
+			"length": "82.6mm",
+			"weight": "615gr",
+		},
+		"announced": "05-13-2014",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "Canon has been instrumental in offering lightweight f/4 lenses for professional users, and this new ultra-wide angle zoom L-series model is the first from the maker to include stabilization.",
+		"uses": [
+			"Landscape",
+			"Travel"
+		],
+		"rank": "",
+		"bestUse": "Landscape"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF-S 10-22mm f/3.5-4.5 USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"",
+			""
+		],
+		"rank": "",
+		"bestUse": "Landscape"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 24-105 f/4L IS USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"",
+			""
+		],
+		"rank": "",
+		"bestUse": ""
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 24-70mm f/4L IS USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"",
+			""
+		],
+		"rank": "",
+		"bestUse": ""
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 24-70mm f/2.8L II USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Landscape",
+			"Portrait"
+		],
+		"rank": "",
+		"bestUse": "Portrait"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 17-40mm f/4L USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Landscape",
+			""
+		],
+		"rank": "",
+		"bestUse": "Landscape"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 70-300mm f/4-5.6L IS USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Landscape",
+			"Wildlife"
+		],
+		"rank": "",
+		"bestUse": ""
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 70-200mm f/4L IS USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Landscape",
+			"Wildlife",
+			"Portrait"
+		],
+		"rank": "",
+		"bestUse": ""
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 24mm f/1.4L II USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Landscape",
+			""
+		],
+		"rank": "",
+		"bestUse": "Landscape"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 70-200mm f/2.8L IS II USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Portrait",
+			"Wildlife",
+			"Sports"
+		],
+		"rank": "",
+		"bestUse": "Portrait"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 85mm f/1.2L II USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "Black",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Portrait",
+			"Wedding"
+		],
+		"rank": "",
+		"bestUse": "Portrait"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 100mm f/2.8L IS USM Macro",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "Black",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Macro",
+			"Portrait"
+		],
+		"rank": "",
+		"bestUse": "Macro"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 50mm f/1.2L USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "Black",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Portrait",
+			""
+		],
+		"rank": "",
+		"bestUse": "Portrait"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 300mm f/2.8L IS II USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Portrait",
+			"Wildlife",
+			"Sports"
+		],
+		"rank": "",
+		"bestUse": "Sports"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF-S 17-55mm f/2.8 IS USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "Black",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Landscape",
+			"Portrait"
+		],
+		"rank": "",
+		"bestUse": "Portrait"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 85mm f/1.8 USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "Black",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Portrait",
+			""
+		],
+		"rank": "",
+		"bestUse": "Portrait"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 100mm f/2.8 USM Macro",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "Black",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Macro",
+			"Portrait"
+		],
+		"rank": "2",
+		"bestUse": "Macro"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 50mm f/1.4 USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "Black",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Portrait",
+			"Landscape"
+		],
+		"rank": "2",
+		"bestUse": "Portrait"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 600mm f/4L IS II USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "White",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Wildlife",
+			"Sports"
+		],
+		"rank": "",
+		"bestUse": "Wildlife"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 500mm f/4L IS II USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "White",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Wildlife",
+			"Sports"
+		],
+		"rank": "",
+		"bestUse": "Sports"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 200-400mm f/4L IS USM Ext 1.4x",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "White",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Wildlife",
+			"Sports"
+		],
+		"rank": "",
+		"bestUse": "Wildlife"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 400mm f/2.8L IS II USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "White",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Wildlife",
+			"Sports"
+		],
+		"rank": "",
+		"bestUse": "Sports"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 100-400mm f/4.5-5.6L IS USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "White",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Wildlife",
+			"Sports"
+		],
+		"rank": "",
+		"bestUse": "Wildlife"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 400 mm f/5.6L USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "White",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Wildlife",
+			"Landscape"
+		],
+		"rank": "",
+		"bestUse": "Wildlife"
+    },
+	{
+        "brand": "Canon", 
+        "model": "EF 16-35mm f/2.8L II USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "Black",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"Landscape",
+			"Sports"
+		],
+		"rank": "",
+		"bestUse": "Landscape"
+    },
+	{
+        "brand": "Canon", 
+        "model": "",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": "",
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": "",
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg", 
+			"img/lenses/*.1.jpg"
+		],
+		"description": "",
+		"uses": [
+			"",
+			""
+		],
+		"rank": "",
+		"bestUse": ""
+    }
+]
