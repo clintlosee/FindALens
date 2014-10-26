@@ -17,6 +17,8 @@ You can run the application on your local machine by running the following comma
 npm start
 ```
 
+-----------------------------------------------------------------------------
+
 Based off from Angular Seed project. See Readme file at the [Angular Seed](https://github.com/angular/angular-seed) on GitHub
 
 ## Information

@@ -1,81 +1,118 @@
 [
-    {
-        "brand": "Canon", 
-        "model": "EF 16-35mm f/4L IS USM",
-		"price": "1199",
-		"aperture": "f/4",
-		"focalRange": "16-35",
-		"filterSize": "77mm",
-		"mount": "Canon EF",
-		"stabilization": true,
-		"afmotor": "USM",
-		"zoomType": "Ring",
-		"frontElementRotate": false,
-		"tripodMount": false,
-		"color": "Black",
-		"manualFocus": true,
+  {
+    "brand": "Canon",
+    "model": "EF 16-35mm f/4L IS USM",
+    "price": "1199",
+    "aperture": "f/4",
+    "focalRange": "16-35",
+    "filterSize": "77mm",
+    "mount": "Canon EF",
+    "stabilization": true,
+    "afmotor": "USM",
+    "zoomType": "Ring",
+    "frontElementRotate": false,
+    "tripodMount": false,
+    "color": "Black",
+    "manualFocus": true,
+    "lensElements": {
+    	"numberOfLenses": "16",
+    	"numberOfGroups": "12",
+    	"diaphragmBlades": "9"
+    },
+    "sizeAndWeight": {
+    	"length": "82.6mm",
+    	"weight": "615gr"
+    },
+    "announced": "05-13-2014",
+    "images": [
+    	"img/lenses/*.0.jpg",
+    	"img/lenses/*.1.jpg"
+    ],
+    "description": "Canon has been instrumental in offering lightweight f/4 lenses for professional users, and this new ultra-wide angle zoom L-series model is the first from the maker to include stabilization.",
+    "uses": [
+    	"Landscape",
+    	"Travel"
+    ],
+    "rank": "1",
+    "bestUse": "Landscape"
+  },
+  {
+    "brand": "Canon",
+    "model": "EF-S 10-22mm f/3.5-4.5 USM",
+    "price": "",
+    "aperture": "",
+    "focalRange": "",
+    "filterSize": "",
+    "mount": "",
+    "stabilization": "",
+    "afmotor": "",
+    "zoomType": "",
+    "frontElementRotate": "",
+    "tripodMount": "",
+    "color": "",
+    "manualFocus": "",
+    "lensElements": {
+    	"numberOfLenses": "",
+    	"numberOfGroups": "",
+    	"diaphragmBlades": ""
+    },
+    "sizeAndWeight": {
+    	"length": "",
+    	"weight": ""
+    },
+    "announced": "",
+    "images": [
+    	"img/lenses/*.0.jpg",
+    	"img/lenses/*.1.jpg"
+    ],
+    "description": "The Canon EF-S 10-22mm f/3.5-4.5 USM, a very light and small equivalent to a 16-35mm on a 35mm camera, is well suited for landscape or indoor photography. For example, the non-rotating front element eases the use of polarizing and graduated filters, which are very popular for landscape photography. It is to be noticed that this wide angle zoom can focus at a distance down to 24 cm.",
+    "uses": [
+    	"",
+    	""
+    ],
+    "rank": "2",
+    "bestUse": "Landscape"
+  },
+	{
+    "brand": "Canon",
+    "model": "EF 24-105 f/4L IS USM",
+		"price": "",
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": "",
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
 		"lensElements": {
-			"numberOfLenses": "16",
-			"numberOfGroups": "12",
-			"diaphragmBlades": "9",
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
-			"length": "82.6mm",
-			"weight": "615gr",
+			"length": "",
+			"weight": ""
 		},
-		"announced": "05-13-2014",
+		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "Canon has been instrumental in offering lightweight f/4 lenses for professional users, and this new ultra-wide angle zoom L-series model is the first from the maker to include stabilization.",
+		"description": "",
 		"uses": [
 			"Landscape",
-			"Travel"
-		],
-		"rank": "",
-		"bestUse": "Landscape"
-    },
-	{
-        "brand": "Canon", 
-        "model": "EF-S 10-22mm f/3.5-4.5 USM",
-		"price": "",
-		"aperture": "",
-		"focalRange": "",
-		"filterSize": "",
-		"mount": "",
-		"stabilization": "",
-		"afmotor": "",
-		"zoomType": "",
-		"frontElementRotate": "",
-		"tripodMount": "",
-		"color": "",
-		"manualFocus": "",
-		"lensElements": {
-			"numberOfLenses": "",
-			"numberOfGroups": "",
-			"diaphragmBlades": "",
-		},
-		"sizeAndWeight": {
-			"length": "",
-			"weight": "",
-		},
-		"announced": "",
-		"images": [
-			"img/lenses/*.0.jpg", 
-			"img/lenses/*.1.jpg"
-		],
-		"description": "",
-		"uses": [
-			"",
 			""
 		],
-		"rank": "",
-		"bestUse": "Landscape"
+		"rank": "3",
+		"bestUse": ""
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 24-105 f/4L IS USM",
+    "brand": "Canon",
+    "model": "EF 24-70mm f/4L IS USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -91,15 +128,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -111,8 +148,8 @@
 		"bestUse": ""
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 24-70mm f/4L IS USM",
+    "brand": "Canon",
+    "model": "EF 24-70mm f/2.8L II USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -128,65 +165,28 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"",
-			""
-		],
-		"rank": "",
-		"bestUse": ""
-    },
-	{
-        "brand": "Canon", 
-        "model": "EF 24-70mm f/2.8L II USM",
-		"price": "",
-		"aperture": "",
-		"focalRange": "",
-		"filterSize": "",
-		"mount": "",
-		"stabilization": "",
-		"afmotor": "",
-		"zoomType": "",
-		"frontElementRotate": "",
-		"tripodMount": "",
-		"color": "",
-		"manualFocus": "",
-		"lensElements": {
-			"numberOfLenses": "",
-			"numberOfGroups": "",
-			"diaphragmBlades": "",
-		},
-		"sizeAndWeight": {
-			"length": "",
-			"weight": "",
-		},
-		"announced": "",
-		"images": [
-			"img/lenses/*.0.jpg", 
-			"img/lenses/*.1.jpg"
-		],
-		"description": "",
+		"description": "The Canon EF 24-70mm f/2.8L II USM is the kind of lens that's always going to be held up to high scrutiny - it's the company's flagship standard zoom for professional photographers, and is expected to deliver top-notch results under all conditions. Happily, that's exactly what it does.",
 		"uses": [
 			"Landscape",
 			"Portrait"
 		],
-		"rank": "",
+		"rank": "1",
 		"bestUse": "Portrait"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 17-40mm f/4L USM",
+    "brand": "Canon",
+    "model": "EF 17-40mm f/4L USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -202,15 +202,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -218,11 +218,11 @@
 			"Landscape",
 			""
 		],
-		"rank": "",
+		"rank": "5",
 		"bestUse": "Landscape"
     },
 	{
-        "brand": "Canon", 
+        "brand": "Canon",
         "model": "EF 70-300mm f/4-5.6L IS USM",
 		"price": "",
 		"aperture": "",
@@ -239,15 +239,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -255,12 +255,12 @@
 			"Landscape",
 			"Wildlife"
 		],
-		"rank": "",
-		"bestUse": ""
+		"rank": "5",
+		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 70-200mm f/4L IS USM",
+    "brand": "Canon",
+    "model": "EF 70-200mm f/4L IS USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -276,15 +276,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -293,12 +293,12 @@
 			"Wildlife",
 			"Portrait"
 		],
-		"rank": "",
-		"bestUse": ""
+		"rank": "8",
+		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 24mm f/1.4L II USM",
+    "brand": "Canon",
+    "model": "EF 24mm f/1.4L II USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -314,15 +314,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -330,12 +330,12 @@
 			"Landscape",
 			""
 		],
-		"rank": "",
+		"rank": "5",
 		"bestUse": "Landscape"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 70-200mm f/2.8L IS II USM",
+    "brand": "Canon",
+    "model": "EF 70-200mm f/2.8L IS II USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -351,15 +351,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -368,12 +368,12 @@
 			"Wildlife",
 			"Sports"
 		],
-		"rank": "",
+		"rank": "2",
 		"bestUse": "Portrait"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 85mm f/1.2L II USM",
+    "brand": "Canon",
+    "model": "EF 85mm f/1.2L II USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -389,15 +389,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -405,12 +405,12 @@
 			"Portrait",
 			"Wedding"
 		],
-		"rank": "",
+		"rank": "3",
 		"bestUse": "Portrait"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 100mm f/2.8L IS USM Macro",
+    "brand": "Canon",
+    "model": "EF 100mm f/2.8L IS USM Macro",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -426,15 +426,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -442,12 +442,12 @@
 			"Macro",
 			"Portrait"
 		],
-		"rank": "",
+		"rank": "3",
 		"bestUse": "Macro"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 50mm f/1.2L USM",
+    "brand": "Canon",
+    "model": "EF 50mm f/1.2L USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -463,15 +463,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -479,12 +479,12 @@
 			"Portrait",
 			""
 		],
-		"rank": "",
+		"rank": "6",
 		"bestUse": "Portrait"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 300mm f/2.8L IS II USM",
+    "brand": "Canon",
+    "model": "EF 300mm f/2.8L IS II USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -500,29 +500,28 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
 		"uses": [
-			"Portrait",
-			"Wildlife",
-			"Sports"
+			"Sports",
+			"Wildlife"
 		],
-		"rank": "",
+		"rank": "2",
 		"bestUse": "Sports"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF-S 17-55mm f/2.8 IS USM",
+    "brand": "Canon",
+    "model": "EF-S 17-55mm f/2.8 IS USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -538,15 +537,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -554,12 +553,12 @@
 			"Landscape",
 			"Portrait"
 		],
-		"rank": "",
+		"rank": "7",
 		"bestUse": "Portrait"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 85mm f/1.8 USM",
+    "brand": "Canon",
+    "model": "EF 85mm f/1.8 USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -575,15 +574,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -591,12 +590,12 @@
 			"Portrait",
 			""
 		],
-		"rank": "",
+		"rank": "8",
 		"bestUse": "Portrait"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 100mm f/2.8 USM Macro",
+    "brand": "Canon",
+    "model": "EF 100mm f/2.8 USM Macro",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -612,15 +611,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -628,12 +627,12 @@
 			"Macro",
 			"Portrait"
 		],
-		"rank": "2",
+		"rank": "9",
 		"bestUse": "Macro"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 50mm f/1.4 USM",
+    "brand": "Canon",
+    "model": "EF 50mm f/1.4 USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -649,15 +648,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -665,12 +664,12 @@
 			"Portrait",
 			"Landscape"
 		],
-		"rank": "2",
+		"rank": "8",
 		"bestUse": "Portrait"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 600mm f/4L IS II USM",
+    "brand": "Canon",
+    "model": "EF 600mm f/4L IS II USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -686,15 +685,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -702,12 +701,12 @@
 			"Wildlife",
 			"Sports"
 		],
-		"rank": "",
+		"rank": "1",
 		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 500mm f/4L IS II USM",
+    "brand": "Canon",
+    "model": "EF 500mm f/4L IS II USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -723,15 +722,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -739,12 +738,12 @@
 			"Wildlife",
 			"Sports"
 		],
-		"rank": "",
+		"rank": "2",
 		"bestUse": "Sports"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 200-400mm f/4L IS USM Ext 1.4x",
+    "brand": "Canon",
+    "model": "EF 200-400mm f/4L IS USM Ext 1.4x",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -760,15 +759,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -776,12 +775,12 @@
 			"Wildlife",
 			"Sports"
 		],
-		"rank": "",
+		"rank": "1",
 		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 400mm f/2.8L IS II USM",
+    "brand": "Canon",
+    "model": "EF 400mm f/2.8L IS II USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -797,15 +796,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -813,12 +812,12 @@
 			"Wildlife",
 			"Sports"
 		],
-		"rank": "",
+		"rank": "3",
 		"bestUse": "Sports"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 100-400mm f/4.5-5.6L IS USM",
+    "brand": "Canon",
+    "model": "EF 100-400mm f/4.5-5.6L IS USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -834,15 +833,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -850,12 +849,12 @@
 			"Wildlife",
 			"Sports"
 		],
-		"rank": "",
+		"rank": "4",
 		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 400 mm f/5.6L USM",
+    "brand": "Canon",
+    "model": "EF 400 mm f/5.6L USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -871,28 +870,28 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
 		"uses": [
 			"Wildlife",
-			"Landscape"
+			"Sports"
 		],
-		"rank": "",
+		"rank": "3",
 		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Canon", 
-        "model": "EF 16-35mm f/2.8L II USM",
+    "brand": "Canon",
+    "model": "EF 16-35mm f/2.8L II USM",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -908,15 +907,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -924,12 +923,12 @@
 			"Landscape",
 			"Sports"
 		],
-		"rank": "",
+		"rank": "2",
 		"bestUse": "Landscape"
     },
 	{
-        "brand": "Canon", 
-        "model": "",
+    "brand": "Canon",
+    "model": "",
 		"price": "",
 		"aperture": "",
 		"focalRange": "",
@@ -945,15 +944,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",

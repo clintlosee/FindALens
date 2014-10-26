@@ -1,1 +1,35 @@
 /* app css stylesheet */
+@import 'mixins';
+
+#content {
+	padding-top:50px;
+}
+
+.cameraLogo img {
+//	width:30%;
+}
+#canon, #nikon {
+//	@include vertical-align;
+	height:200px; // Temporary for collapsing divs
+	margin:50px 0;
+	border:1px solid #fff;
+}
+#canon a {
+	color: #ff4400;
+}
+#nikon a {
+	color: red;
+}
+
+.lens-list a {
+	height:10em;
+	margin:10px 0;
+}
+
+/****** Footer ******/
+
+footer {
+	background-color: #222;
+	padding: 30px 0;
+	margin:50px 0 0;
+}

@@ -1,6 +1,6 @@
 [
     {
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor 18-55mm f/3.5-5.6 VR AF-S DX",
 		"price": "",
 		"aperture": "f/3.5-5.6",
@@ -17,15 +17,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -37,7 +37,7 @@
 		"bestUse": "Landscape"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor 18-105mm f/3.5-5.6 ED VR AF-S DX",
 		"price": "",
 		"aperture": "f/3.5-5.6",
@@ -54,15 +54,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -74,7 +74,7 @@
 		"bestUse": "Landscape"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 24-70mm f/2.8 ED",
 		"price": "",
 		"aperture": "f/2.8",
@@ -91,15 +91,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -112,7 +112,7 @@
 		"bestUse": ""
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S DX 18-200mm f/3.5-5.6 ED VR II",
 		"price": "",
 		"aperture": "f/3.5-5.6",
@@ -129,15 +129,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -149,7 +149,7 @@
 		"bestUse": ""
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 14-24mm f/2.8 ED",
 		"price": "",
 		"aperture": "f/2.8",
@@ -166,15 +166,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -186,7 +186,7 @@
 		"bestUse": "Landscape"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 50mm f/1.8",
 		"price": "",
 		"aperture": "f/1.8",
@@ -203,15 +203,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -223,7 +223,7 @@
 		"bestUse": "Portrait"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 50mm f/1.4",
 		"price": "",
 		"aperture": "f/1.4",
@@ -240,15 +240,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -260,7 +260,7 @@
 		"bestUse": "Portrait"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 300mm f/4 ED-IF",
 		"price": "",
 		"aperture": "f/4",
@@ -277,15 +277,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -297,7 +297,7 @@
 		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 600mm f/4 ED VR",
 		"price": "",
 		"aperture": "f/4",
@@ -314,15 +314,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -334,7 +334,7 @@
 		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 300mm f/2.8 ED VR II",
 		"price": "",
 		"aperture": "f/2.8",
@@ -351,15 +351,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -372,7 +372,7 @@
 		"bestUse": "Sports"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 400mm f/2.8 ED VR",
 		"price": "",
 		"aperture": "f/2.8",
@@ -389,15 +389,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -409,7 +409,7 @@
 		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor 800mm f/5.6 FL ED VR Nikon AF-S 800mm",
 		"price": "",
 		"aperture": "f/5.6",
@@ -426,15 +426,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -446,7 +446,7 @@
 		"bestUse": "Wildlife"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S Micro 60mm f/2.8 ED",
 		"price": "",
 		"aperture": "f/2.8",
@@ -463,15 +463,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -483,7 +483,7 @@
 		"bestUse": "Macro"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor Micro 105mm f/2.8 AIS",
 		"price": "",
 		"aperture": "f/2.8",
@@ -500,15 +500,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -520,7 +520,7 @@
 		"bestUse": "Macro"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 70-200mm f/2.8 ED VR II",
 		"price": "",
 		"aperture": "f/2.8",
@@ -537,15 +537,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -558,7 +558,7 @@
 		"bestUse": "Sports"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor AF-S 16-35mm f/4 ED VR",
 		"price": "",
 		"aperture": "f/4",
@@ -575,15 +575,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -595,7 +595,7 @@
 		"bestUse": "Landscape"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "Nikkor 17-55mm f/2.8 ED-IF AF-S DX",
 		"price": "",
 		"aperture": "f/2.8",
@@ -612,15 +612,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",
@@ -632,7 +632,7 @@
 		"bestUse": "Landscape"
     },
 	{
-        "brand": "Nikon", 
+        "brand": "Nikon",
         "model": "",
 		"price": "",
 		"aperture": "",
@@ -649,15 +649,15 @@
 		"lensElements": {
 			"numberOfLenses": "",
 			"numberOfGroups": "",
-			"diaphragmBlades": "",
+			"diaphragmBlades": ""
 		},
 		"sizeAndWeight": {
 			"length": "",
-			"weight": "",
+			"weight": ""
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg", 
+			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "",

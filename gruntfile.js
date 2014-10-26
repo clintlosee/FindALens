@@ -1,16 +1,16 @@
 'use strict';
 
 module.exports = function(grunt){
-	
+
 	// Initialize Grunt
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
-		
+
 		// SASS
 		sass: {
 			dist: {
 				files: {
-					'app/css/app.css' : ['app/components/styles/**/*.scss']
+					'app/styles/app.css' : ['app/css/**/*.scss']
 				}
 			}
 		},
@@ -34,11 +34,11 @@ module.exports = function(grunt){
 			},
 			scripts: {
 				files: {
-					'app/scripts/app.min.js': ['app/components/scripts/**/*.js']
+					'app/scripts/app.min.js': ['app/js/**/*.js']
 				}
 			}
 		},
-		
+
 		// Concatenate
 		concat: {
 			frameworks: {
@@ -52,42 +52,39 @@ module.exports = function(grunt){
 			},
 			controllers: {
 				files: {
-					'app/scripts/controllers.js': ['app/components/controllers/**/*.js']
+					'app/scripts/controllers.js': ['app/js/controllers/**/*.js']
 				}
 			}
 		},
-		
-		// Minify 
+
+		// Minify
 		cssmin: {
 			frameworks: {
 				src: 'app/styles/frame.css',
 				dest: 'app/styles/frame.min.css'
 			}
 		},
-		
+
 		// Watch
 		watch: {
 			files: [
-				'app/components/controllers/*',
-				'app/components/routes/*',
-				'app/components/scripts/*',
-				'app/components/styles/*',
-				'app/components/version/*'
+				'app/js/controllers/*',
+				'app/scripts/*',
+				'app/css/*'
 			],
 			tasks: ['uglify', 'concat', 'sass', 'cssmin']
 		}
-		
+
 	});
-	
+
 	// Load NPM Contributions
 	grunt.loadNpmTasks('grunt-contrib-sass');
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
 	grunt.loadNpmTasks('grunt-contrib-watch');
-	
+
 	// Register Grunt Tasks
 	grunt.registerTask('default', ['uglify', 'concat', 'sass', 'cssmin', 'watch']);
-	
-};
 
+};

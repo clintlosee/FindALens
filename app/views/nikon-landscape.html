@@ -1,0 +1,22 @@
+<div class="row text-center">
+  <span class="cover-heading">{{ message }}</span>
+  <a href="#/nikon" class="cameraLogo"><img src="img/nikon_logo.png" alt="Nikon" class="col-md-4 col-md-offset-4 col-xs-12" /></a>
+</div>
+
+<div class="row">
+<!--
+  <ul class="col-md-12 list-group clearfix">
+    <li class="list-group-item" ng-repeat="canonLens in canonLenses">
+      <a href="#"><h3>{{ canonLens.model }}</h3></a>
+    </li>
+  </ul>
+-->
+  <div class="list-group lens-list">
+    <a href="#" class="list-group-item col-md-4" ng-repeat="nikonLens in nikonLenses">
+      <h4 class="list-group-item-heading">{{ nikonLens.model }}</h4>
+      <p class="list-group-item-text">{{ nikonLens.description }}</p>
+    </a>
+  </div>
+
+
+</div>

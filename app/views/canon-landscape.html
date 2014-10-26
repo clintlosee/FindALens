@@ -1,0 +1,35 @@
+<div class="row text-center">
+  <span class="cover-heading">{{ message }}</span>
+  <a href="#/canon" class="cameraLogo"><img src="img/canon_logo.png" alt="Canon" class="col-md-6 col-md-offset-3 col-xs-12" /></a>
+</div>
+
+<div class="row">
+<!--
+  <ul class="col-md-12 list-group clearfix">
+    <li class="list-group-item" ng-repeat="canonLens in canonLenses">
+      <a href="#"><h3>{{ canonLens.model }}</h3></a>
+    </li>
+	</ul>
+
+  <div class="list-group lens-list">
+    <a href="#" class="list-group-item col-md-4" ng-repeat="canonLens in canonLenses">
+      <h4 class="list-group-item-heading">{{ canonLens.model }}</h4>
+      <p class="list-group-item-text">{{ canonLens.description }}</p>
+    </a>
+  </div>
+-->
+  <div class="row">
+    <div class="col-sm-6 col-md-4" ng-repeat="canonLens in canonLenses | filter:filterByBestUse = 'Landscape' | orderBy:orderProp | limitTo:numLimit" ng-model="orderProp">
+      <div class="thumbnail">
+        <img src="http://placehold.it/350x300" alt="...">
+        <div class="caption">
+          <h3>{{ canonLens.model }}</h3>
+          <p>{{ canonLens.description }}</p>
+          <span class="badge pull-left">{{ canonLens.rank }}</span>
+          <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

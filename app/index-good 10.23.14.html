@@ -33,9 +33,8 @@
   <!-- Load Custom Scripts -->
   <script src="js/app.js" type="text/javascript"></script>
   <script src="js/controllers/homeController.js" type="text/javascript"></script>
-  <script src="js/controllers/canonController.js" type="text/javascript"></script>
-  <script src="js/controllers/nikonController.js" type="text/javascript"></script>
-  <script src="js/controllers/lensController.js" type="text/javascript"></script>
+  <script src="js/controllers/twoController.js" type="text/javascript"></script>
+  <script src="js/controllers/threeController.js" type="text/javascript"></script>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -47,7 +46,11 @@
 
 <body>
 
-  <div class="">
+  <div class="site-wrapper">
+
+    <div class="site-wrapper-inner">
+
+      <div class="cover-container">
 
         <!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -69,31 +72,40 @@
                             <a href="#/">Home</a>
                         </li>
                         <li>
-                            <a href="#/canon">Canon</a>
+                            <a href="#/two">Canon</a>
                         </li>
                         <li>
-                            <a href="#/nikon">Nikon</a>
+                            <a href="#/three">Nikon</a>
                         </li>
                     </ul>
-                </div> <!-- /.navbar-collapse -->
-            </div> <!-- /.container -->
-        </nav>
-
-
-        <div class="container" id="content">
-
-          <!-- Angular App Start | Page Content Shows Here -->
-          <div ng-view></div>
-
-        </div>
-
-        <footer class="">
-
-            <div class="container">
-              <p>Find A Lens Footer</p>
+                </div>
+                <!-- /.navbar-collapse -->
             </div>
+            <!-- /.container -->
+        </nav>
+      <div class="container">
+        
+        <div class="inner cover">
+          
+          <!-- Put your page content here! -->
+          <!-- Angular App Start -->
+          <div ng-view>
+          </div>
+        
+        </div> <!-- End inner cover -->
 
+        <footer class="col-md-12">
+          
+          <div>
+            <p>Find A Lens Footer</p>
+          </div>
+        
         </footer> <!-- End footer -->
+      </div>
+
+      </div>
+
+    </div>
 
   </div>
 
