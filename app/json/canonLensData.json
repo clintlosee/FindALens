@@ -2,7 +2,7 @@
   {
     "brand": "Canon",
     "model": "EF 16-35mm f/4L IS USM",
-    "price": "1199",
+    "price": 1199,
     "aperture": "f/4",
     "focalRange": "16-35",
     "filterSize": "77mm",
@@ -29,17 +29,20 @@
     	"img/lenses/*.1.jpg"
     ],
     "description": "Canon has been instrumental in offering lightweight f/4 lenses for professional users, and this new ultra-wide angle zoom L-series model is the first from the maker to include stabilization.",
-    "uses": [
-    	"Landscape",
-    	"Travel"
-    ],
+    "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
     "rank": "1",
     "bestUse": "Landscape"
   },
   {
     "brand": "Canon",
     "model": "EF-S 10-22mm f/3.5-4.5 USM",
-    "price": "",
+    "price": 599,
     "aperture": "",
     "focalRange": "",
     "filterSize": "",
@@ -66,17 +69,20 @@
     	"img/lenses/*.1.jpg"
     ],
     "description": "The Canon EF-S 10-22mm f/3.5-4.5 USM, a very light and small equivalent to a 16-35mm on a 35mm camera, is well suited for landscape or indoor photography. For example, the non-rotating front element eases the use of polarizing and graduated filters, which are very popular for landscape photography. It is to be noticed that this wide angle zoom can focus at a distance down to 24 cm.",
-    "uses": [
-    	"",
-    	""
-    ],
-    "rank": "2",
+    "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
+    "rank": "3",
     "bestUse": "Landscape"
   },
 	{
     "brand": "Canon",
     "model": "EF 24-105 f/4L IS USM",
-		"price": "",
+		"price": 1150,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -102,18 +108,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			""
-		],
-		"rank": "3",
-		"bestUse": ""
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
+		"rank": "5",
+		"bestUse": "Landscape"
     },
 	{
     "brand": "Canon",
     "model": "EF 24-70mm f/4L IS USM",
-		"price": "",
+		"price": 1999,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -139,18 +148,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"",
-			""
-		],
-		"rank": "",
-		"bestUse": ""
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
+		"rank": "3",
+		"bestUse": "Travel"
     },
 	{
     "brand": "Canon",
     "model": "EF 24-70mm f/2.8L II USM",
-		"price": "",
+		"price": 2400,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -177,17 +189,20 @@
 			"img/lenses/*.1.jpg"
 		],
 		"description": "The Canon EF 24-70mm f/2.8L II USM is the kind of lens that's always going to be held up to high scrutiny - it's the company's flagship standard zoom for professional photographers, and is expected to deliver top-notch results under all conditions. Happily, that's exactly what it does.",
-		"uses": [
-			"Landscape",
-			"Portrait"
-		],
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "1",
 		"bestUse": "Portrait"
     },
 	{
     "brand": "Canon",
     "model": "EF 17-40mm f/4L USM",
-		"price": "",
+		"price": 650,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -195,7 +210,7 @@
 		"stabilization": "",
 		"afmotor": "",
 		"zoomType": "",
-		"frontElementRotate": "",
+		"frontElementRotate": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
 		"tripodMount": "",
 		"color": "",
 		"manualFocus": "",
@@ -213,18 +228,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			""
-		],
-		"rank": "5",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
+		"rank": "4",
 		"bestUse": "Landscape"
     },
 	{
-        "brand": "Canon",
-        "model": "EF 70-300mm f/4-5.6L IS USM",
-		"price": "",
+    "brand": "Canon",
+    "model": "EF 70-300mm f/4-5.6L IS USM",
+		"price": 1600,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -250,18 +268,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Wildlife"
-		],
-		"rank": "5",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
+		"rank": "7",
 		"bestUse": "Wildlife"
     },
 	{
     "brand": "Canon",
     "model": "EF 70-200mm f/4L IS USM",
-		"price": "",
+		"price": 1125,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -287,19 +308,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Wildlife",
-			"Portrait"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "8",
 		"bestUse": "Wildlife"
     },
 	{
     "brand": "Canon",
     "model": "EF 24mm f/1.4L II USM",
-		"price": "",
+		"price": 1300,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -325,18 +348,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			""
-		],
-		"rank": "5",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
+		"rank": "6",
 		"bestUse": "Landscape"
     },
 	{
     "brand": "Canon",
     "model": "EF 70-200mm f/2.8L IS II USM",
-		"price": "",
+		"price": 2599,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -362,19 +388,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Portrait",
-			"Wildlife",
-			"Sports"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "2",
 		"bestUse": "Portrait"
     },
 	{
     "brand": "Canon",
     "model": "EF 85mm f/1.2L II USM",
-		"price": "",
+		"price": 1899,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -400,18 +428,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Portrait",
-			"Wedding"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "3",
 		"bestUse": "Portrait"
     },
 	{
     "brand": "Canon",
     "model": "EF 100mm f/2.8L IS USM Macro",
-		"price": "",
+		"price": 900,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -437,18 +468,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Macro",
-			"Portrait"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "3",
 		"bestUse": "Macro"
     },
 	{
     "brand": "Canon",
     "model": "EF 50mm f/1.2L USM",
-		"price": "",
+		"price": 1399,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -474,18 +508,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Portrait",
-			""
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "6",
 		"bestUse": "Portrait"
     },
 	{
     "brand": "Canon",
     "model": "EF 300mm f/2.8L IS II USM",
-		"price": "",
+		"price": 4,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -511,18 +548,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Sports",
-			"Wildlife"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "2",
 		"bestUse": "Sports"
     },
 	{
     "brand": "Canon",
     "model": "EF-S 17-55mm f/2.8 IS USM",
-		"price": "",
+		"price": 755,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -548,18 +588,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "7",
 		"bestUse": "Portrait"
     },
 	{
     "brand": "Canon",
     "model": "EF 85mm f/1.8 USM",
-		"price": "",
+		"price": 3,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -585,18 +628,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Portrait",
-			""
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "8",
 		"bestUse": "Portrait"
     },
 	{
     "brand": "Canon",
     "model": "EF 100mm f/2.8 USM Macro",
-		"price": "",
+		"price": 500,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -622,18 +668,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Macro",
-			"Portrait"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "9",
 		"bestUse": "Macro"
     },
 	{
     "brand": "Canon",
     "model": "EF 50mm f/1.4 USM",
-		"price": "",
+		"price": 399,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -659,18 +708,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Portrait",
-			"Landscape"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "8",
 		"bestUse": "Portrait"
     },
 	{
     "brand": "Canon",
     "model": "EF 600mm f/4L IS II USM",
-		"price": "",
+		"price": 6000,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -696,18 +748,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Wildlife",
-			"Sports"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "1",
 		"bestUse": "Wildlife"
     },
 	{
     "brand": "Canon",
     "model": "EF 500mm f/4L IS II USM",
-		"price": "",
+		"price": 5000,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -733,18 +788,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Wildlife",
-			"Sports"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "2",
 		"bestUse": "Sports"
     },
 	{
     "brand": "Canon",
     "model": "EF 200-400mm f/4L IS USM Ext 1.4x",
-		"price": "",
+		"price": 10000,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -770,18 +828,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Wildlife",
-			"Sports"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "1",
 		"bestUse": "Wildlife"
     },
 	{
     "brand": "Canon",
     "model": "EF 400mm f/2.8L IS II USM",
-		"price": "",
+		"price": 1,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -807,18 +868,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Wildlife",
-			"Sports"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "3",
 		"bestUse": "Sports"
     },
 	{
     "brand": "Canon",
     "model": "EF 100-400mm f/4.5-5.6L IS USM",
-		"price": "",
+		"price": 1200,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -844,18 +908,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Wildlife",
-			"Sports"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "4",
 		"bestUse": "Wildlife"
     },
 	{
     "brand": "Canon",
     "model": "EF 400 mm f/5.6L USM",
-		"price": "",
+		"price": 0,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -881,18 +948,21 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Wildlife",
-			"Sports"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "3",
 		"bestUse": "Wildlife"
     },
 	{
     "brand": "Canon",
     "model": "EF 16-35mm f/2.8L II USM",
-		"price": "",
+		"price": 1850,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -918,49 +988,15 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Sports"
-		],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro"
+    },
 		"rank": "2",
 		"bestUse": "Landscape"
-    },
-	{
-    "brand": "Canon",
-    "model": "",
-		"price": "",
-		"aperture": "",
-		"focalRange": "",
-		"filterSize": "",
-		"mount": "",
-		"stabilization": "",
-		"afmotor": "",
-		"zoomType": "",
-		"frontElementRotate": "",
-		"tripodMount": "",
-		"color": "",
-		"manualFocus": "",
-		"lensElements": {
-			"numberOfLenses": "",
-			"numberOfGroups": "",
-			"diaphragmBlades": ""
-		},
-		"sizeAndWeight": {
-			"length": "",
-			"weight": ""
-		},
-		"announced": "",
-		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
-		"description": "",
-		"uses": [
-			"",
-			""
-		],
-		"rank": "",
-		"bestUse": ""
     }
 ]

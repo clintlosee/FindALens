@@ -18,18 +18,26 @@
     </a>
   </div>
 -->
+</div>
+Order By:
+<select ng-model="orderProp" class="input-large" name="">
+  <option selected value="rank">Rank</option>
+  <option selected value="price">Price</option>
+</select>
+
+
   <div class="row">
-    <div class="col-sm-6 col-md-4" ng-repeat="canonLens in canonLenses | filter:filterByBestUse = 'Landscape' | orderBy:orderProp | limitTo:numLimit" ng-model="orderProp">
+    <div class="col-sm-6 col-md-4" ng-repeat="canonLens in canonLenses | filter: { bestUse: 'Landscape' } | orderBy:orderProp | limitTo:numLimit">
       <div class="thumbnail">
         <img src="http://placehold.it/350x300" alt="...">
         <div class="caption">
           <h3>{{ canonLens.model }}</h3>
           <p>{{ canonLens.description }}</p>
+          <p>{{ canonLens.price | currency }}</p>
+          <p>{{ canonLens.bestUse }}</p>
           <span class="badge pull-left">{{ canonLens.rank }}</span>
           <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
         </div>
       </div>
     </div>
   </div>
-
-</div>
