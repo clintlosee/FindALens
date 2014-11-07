@@ -10,9 +10,8 @@ FindALens.controller('LensController', ['$scope', '$http',
       $scope.nikonLenses = data;
     });
 
-    $scope.numLimit = 6;
     $scope.orderProp = 'rank';
-    $scope.filterByLandscape = 'Landscape';
-    $scope.filterByPortrait = 'Portrait';
-    $scope.filterByBestUse = 'bestUse';
+    $scope.numLimit = 6;
+
+
 }]);
