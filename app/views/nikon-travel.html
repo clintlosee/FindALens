@@ -4,7 +4,7 @@
 </div>
 
 <div class="col-md-12">
-  <h2>{{ landscapeMsg }}</h2>
+  <h2>{{ travelMsg }}</h2>
 </div>
 
 <div class="row">
@@ -22,7 +22,7 @@
 </div>
 
 <div class="row">
-  <div class="col-sm-6 col-md-4" ng-repeat="nikonLens in nikonLenses | filter: { bestUse: 'Landscape' } | orderBy:orderProp | limitTo:numLimit">
+  <div class="col-sm-6 col-md-4" ng-repeat="nikonLens in nikonLenses | filter: { bestUse: 'Travel' } | orderBy:orderProp | limitTo:numLimit">
     <div class="thumbnail">
       <img src="http://placehold.it/350x300" alt="...">
       <div class="caption">

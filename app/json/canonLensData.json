@@ -2,7 +2,7 @@
   {
     "brand": "Canon",
     "model": "EF 16-35mm f/4L IS USM",
-    "price": 1199,
+    "price": 1199.00,
     "aperture": "f/4",
     "focalRange": "16-35",
     "filterSize": "77mm",
@@ -25,7 +25,8 @@
     },
     "announced": "05-13-2014",
     "images": [
-    	"img/lenses/*.0.jpg",
+    	"http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
     	"img/lenses/*.1.jpg"
     ],
     "description": "Canon has been instrumental in offering lightweight f/4 lenses for professional users, and this new ultra-wide angle zoom L-series model is the first from the maker to include stabilization.",
@@ -34,7 +35,9 @@
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
     "rank": "1",
     "bestUse": "Landscape"
@@ -42,7 +45,7 @@
   {
     "brand": "Canon",
     "model": "EF-S 10-22mm f/3.5-4.5 USM",
-    "price": 599,
+    "price": 649.99,
     "aperture": "",
     "focalRange": "",
     "filterSize": "",
@@ -65,8 +68,9 @@
     },
     "announced": "",
     "images": [
-    	"img/lenses/*.0.jpg",
-    	"img/lenses/*.1.jpg"
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
     ],
     "description": "The Canon EF-S 10-22mm f/3.5-4.5 USM, a very light and small equivalent to a 16-35mm on a 35mm camera, is well suited for landscape or indoor photography. For example, the non-rotating front element eases the use of polarizing and graduated filters, which are very popular for landscape photography. It is to be noticed that this wide angle zoom can focus at a distance down to 24 cm.",
     "uses": {
@@ -74,7 +78,9 @@
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
     "rank": "3",
     "bestUse": "Landscape"
@@ -82,7 +88,7 @@
 	{
     "brand": "Canon",
     "model": "EF 24-105 f/4L IS USM",
-		"price": 1150,
+		"price": 1149.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -105,16 +111,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "5",
 		"bestUse": "Landscape"
@@ -122,7 +131,7 @@
 	{
     "brand": "Canon",
     "model": "EF 24-70mm f/4L IS USM",
-		"price": 1999,
+		"price": 999.99,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -145,16 +154,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "3",
 		"bestUse": "Travel"
@@ -162,7 +174,7 @@
 	{
     "brand": "Canon",
     "model": "EF 24-70mm f/2.8L II USM",
-		"price": 2400,
+		"price": 2099.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -185,16 +197,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "The Canon EF 24-70mm f/2.8L II USM is the kind of lens that's always going to be held up to high scrutiny - it's the company's flagship standard zoom for professional photographers, and is expected to deliver top-notch results under all conditions. Happily, that's exactly what it does.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "1",
 		"bestUse": "Portrait"
@@ -202,7 +217,7 @@
 	{
     "brand": "Canon",
     "model": "EF 17-40mm f/4L USM",
-		"price": 650,
+		"price": 839.99,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -225,16 +240,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "4",
 		"bestUse": "Landscape"
@@ -242,7 +260,7 @@
 	{
     "brand": "Canon",
     "model": "EF 70-300mm f/4-5.6L IS USM",
-		"price": 1600,
+		"price": 1449.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -265,16 +283,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "7",
 		"bestUse": "Wildlife"
@@ -282,12 +303,12 @@
 	{
     "brand": "Canon",
     "model": "EF 70-200mm f/4L IS USM",
-		"price": 1125,
+		"price": 1299.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
 		"mount": "",
-		"stabilization": "",
+		"stabilization": true,
 		"afmotor": "",
 		"zoomType": "",
 		"frontElementRotate": "",
@@ -305,24 +326,70 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "8",
+		"bestUse": "Wildlife"
+    },
+    {
+    "brand": "Canon",
+    "model": "EF 70-200mm f/4L USM",
+		"price": 709.99,
+		"aperture": "",
+		"focalRange": "",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": false,
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": "",
+		"color": "",
+		"manualFocus": "",
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": ""
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": ""
+		},
+		"announced": "",
+		"images": [
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+		"rank": "10",
 		"bestUse": "Wildlife"
     },
 	{
     "brand": "Canon",
     "model": "EF 24mm f/1.4L II USM",
-		"price": 1300,
+		"price": 1649.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -345,16 +412,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "6",
 		"bestUse": "Landscape"
@@ -362,7 +432,7 @@
 	{
     "brand": "Canon",
     "model": "EF 70-200mm f/2.8L IS II USM",
-		"price": 2599,
+		"price": 2299.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -385,16 +455,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "2",
 		"bestUse": "Portrait"
@@ -402,7 +475,7 @@
 	{
     "brand": "Canon",
     "model": "EF 85mm f/1.2L II USM",
-		"price": 1899,
+		"price": 2099.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -425,16 +498,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "3",
 		"bestUse": "Portrait"
@@ -442,7 +518,7 @@
 	{
     "brand": "Canon",
     "model": "EF 100mm f/2.8L IS USM Macro",
-		"price": 900,
+		"price": 949.99,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -465,16 +541,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "3",
 		"bestUse": "Macro"
@@ -482,7 +561,7 @@
 	{
     "brand": "Canon",
     "model": "EF 50mm f/1.2L USM",
-		"price": 1399,
+		"price": 1549.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -505,16 +584,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "6",
 		"bestUse": "Portrait"
@@ -522,7 +604,7 @@
 	{
     "brand": "Canon",
     "model": "EF 300mm f/2.8L IS II USM",
-		"price": 4,
+		"price": 6599.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -545,16 +627,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "2",
 		"bestUse": "Sports"
@@ -562,7 +647,7 @@
 	{
     "brand": "Canon",
     "model": "EF-S 17-55mm f/2.8 IS USM",
-		"price": 755,
+		"price": 879.99,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -585,16 +670,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "7",
 		"bestUse": "Portrait"
@@ -602,7 +690,7 @@
 	{
     "brand": "Canon",
     "model": "EF 85mm f/1.8 USM",
-		"price": 3,
+		"price": 419.99,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -625,16 +713,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "8",
 		"bestUse": "Portrait"
@@ -642,7 +733,7 @@
 	{
     "brand": "Canon",
     "model": "EF 100mm f/2.8 USM Macro",
-		"price": 500,
+		"price": 599.99,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -665,16 +756,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "9",
 		"bestUse": "Macro"
@@ -682,7 +776,7 @@
 	{
     "brand": "Canon",
     "model": "EF 50mm f/1.4 USM",
-		"price": 399,
+		"price": 399.99,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -705,16 +799,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "8",
 		"bestUse": "Portrait"
@@ -722,7 +819,7 @@
 	{
     "brand": "Canon",
     "model": "EF 600mm f/4L IS II USM",
-		"price": 6000,
+		"price": 11999.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -745,16 +842,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "1",
 		"bestUse": "Wildlife"
@@ -762,7 +862,7 @@
 	{
     "brand": "Canon",
     "model": "EF 500mm f/4L IS II USM",
-		"price": 5000,
+		"price": 9499.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -785,16 +885,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "2",
 		"bestUse": "Sports"
@@ -802,7 +905,7 @@
 	{
     "brand": "Canon",
     "model": "EF 200-400mm f/4L IS USM Ext 1.4x",
-		"price": 10000,
+		"price": 11799.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -825,16 +928,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "1",
 		"bestUse": "Wildlife"
@@ -842,7 +948,7 @@
 	{
     "brand": "Canon",
     "model": "EF 400mm f/2.8L IS II USM",
-		"price": 1,
+		"price": 10499.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -865,16 +971,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "3",
 		"bestUse": "Sports"
@@ -882,7 +991,7 @@
 	{
     "brand": "Canon",
     "model": "EF 100-400mm f/4.5-5.6L IS USM",
-		"price": 1200,
+		"price": 1699.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -905,16 +1014,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "4",
 		"bestUse": "Wildlife"
@@ -922,7 +1034,7 @@
 	{
     "brand": "Canon",
     "model": "EF 400 mm f/5.6L USM",
-		"price": 0,
+		"price": 1339.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -945,16 +1057,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "3",
 		"bestUse": "Wildlife"
@@ -962,7 +1077,7 @@
 	{
     "brand": "Canon",
     "model": "EF 16-35mm f/2.8L II USM",
-		"price": 1850,
+		"price": 1699.00,
 		"aperture": "",
 		"focalRange": "",
 		"filterSize": "",
@@ -985,16 +1100,19 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
-		],
+      "http://placehold.it/350x300",
+      "img/lenses/*.0.jpg",
+      "img/lenses/*.1.jpg"
+    ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
       "useOne": "Landscape",
       "useTwo": "Portrait",
       "useThree": "Sports",
       "useFour": "Wildlife",
-      "useFive": "Macro"
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
     },
 		"rank": "2",
 		"bestUse": "Landscape"

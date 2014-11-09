@@ -1,8 +1,8 @@
 [
     {
         "brand": "Nikon",
-        "model": "Nikkor 18-55mm f/3.5-5.6 VR AF-S DX",
-		"price": "",
+        "model": "Nikkor 18-55mm f/3.5-5.6 ED II AF-S DX",
+		"price": 119.95,
 		"aperture": "f/3.5-5.6",
 		"focalRange": "18-55",
 		"filterSize": "",
@@ -28,18 +28,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Travel"
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "4",
 		"bestUse": "Landscape"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor 18-105mm f/3.5-5.6 ED VR AF-S DX",
-		"price": "",
+		"price": 399.95,
 		"aperture": "f/3.5-5.6",
 		"focalRange": "18-105",
 		"filterSize": "",
@@ -65,18 +70,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Travel"
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "5",
 		"bestUse": "Landscape"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 24-70mm f/2.8 ED",
-		"price": "",
+		"price": 1889.95,
 		"aperture": "f/2.8",
 		"focalRange": "24-70",
 		"filterSize": "",
@@ -102,19 +112,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait",
-			"Travel"
-		],
-		"rank": "",
-		"bestUse": ""
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
+		"bestUse": "Portrait"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S DX 18-200mm f/3.5-5.6 ED VR II",
-		"price": "",
+		"price": 599.95,
 		"aperture": "f/3.5-5.6",
 		"focalRange": "18-200",
 		"filterSize": "",
@@ -140,18 +154,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Travel"
-		],
-		"rank": "",
-		"bestUse": ""
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
+		"bestUse": "Travel"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 14-24mm f/2.8 ED",
-		"price": "",
+		"price": 1999.95,
 		"aperture": "f/2.8",
 		"focalRange": "14-24",
 		"filterSize": "",
@@ -177,18 +196,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			""
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "1",
 		"bestUse": "Landscape"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 50mm f/1.8",
-		"price": "",
+		"price": 219.95,
 		"aperture": "f/1.8",
 		"focalRange": "50",
 		"filterSize": "",
@@ -214,18 +238,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait"
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "4",
 		"bestUse": "Portrait"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 50mm f/1.4",
-		"price": "",
+		"price": 484.95,
 		"aperture": "f/1.4",
 		"focalRange": "50",
 		"filterSize": "",
@@ -251,18 +280,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait"
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "3",
 		"bestUse": "Portrait"
     },
 	{
         "brand": "Nikon",
-        "model": "Nikkor AF-S 300mm f/4 ED-IF",
-		"price": "",
+        "model": "Nikkor AF-S 300mm f/4 IF-ED",
+		"price": 1494.95,
 		"aperture": "f/4",
 		"focalRange": "300",
 		"filterSize": "",
@@ -288,18 +322,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Wildlife"
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "3",
 		"bestUse": "Wildlife"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 600mm f/4 ED VR",
-		"price": "",
+		"price": 10299.95,
 		"aperture": "f/4",
 		"focalRange": "600",
 		"filterSize": "",
@@ -325,18 +364,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Sports",
-			"Wildlife"
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
 		"bestUse": "Wildlife"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 300mm f/2.8 ED VR II",
-		"price": "",
+		"price": 5899.95,
 		"aperture": "f/2.8",
 		"focalRange": "300",
 		"filterSize": "",
@@ -362,19 +406,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Wildlife",
-			"Sports"
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "3",
 		"bestUse": "Sports"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 400mm f/2.8 ED VR",
-		"price": "",
+		"price": 9549.95,
 		"aperture": "f/2.8",
 		"focalRange": "400",
 		"filterSize": "",
@@ -400,18 +448,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Sports",
-			"Wildlife"
-		],
-		"rank": "",
-		"bestUse": "Wildlife"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
+		"bestUse": "Sports"
     },
 	{
         "brand": "Nikon",
-        "model": "Nikkor 800mm f/5.6 FL ED VR Nikon AF-S 800mm",
-		"price": "",
+        "model": "Nikkor 800mm f/5.6 FL ED VR Nikon AF-S",
+		"price": 17899.95,
 		"aperture": "f/5.6",
 		"focalRange": "800",
 		"filterSize": "",
@@ -437,18 +490,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Wildlife",
-			""
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "1",
 		"bestUse": "Wildlife"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S Micro 60mm f/2.8 ED",
-		"price": "",
+		"price": 599.95,
 		"aperture": "f/2.8",
 		"focalRange": "60",
 		"filterSize": "",
@@ -474,18 +532,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Macro",
-			""
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
 		"bestUse": "Macro"
     },
 	{
         "brand": "Nikon",
-        "model": "Nikkor Micro 105mm f/2.8 AIS",
-		"price": "",
+        "model": "Nikkor Micro 105mm f/2.8 IF-ED",
+		"price": 984.95,
 		"aperture": "f/2.8",
 		"focalRange": "105",
 		"filterSize": "",
@@ -511,18 +574,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Portrait",
-			"Macro"
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "1",
 		"bestUse": "Macro"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 70-200mm f/2.8 ED VR II",
-		"price": "",
+		"price": 2399.95,
 		"aperture": "f/2.8",
 		"focalRange": "70-200",
 		"filterSize": "",
@@ -548,19 +616,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait",
-			"Sports"
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "1",
 		"bestUse": "Sports"
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 16-35mm f/4 ED VR",
-		"price": "",
+		"price": 1259.95,
 		"aperture": "f/4",
 		"focalRange": "16-35",
 		"filterSize": "",
@@ -586,18 +658,23 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			""
-		],
-		"rank": "",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
 		"bestUse": "Landscape"
     },
 	{
         "brand": "Nikon",
-        "model": "Nikkor 17-55mm f/2.8 ED-IF AF-S DX",
-		"price": "",
+        "model": "Nikkor 17-55mm f/2.8 IF-ED AF-S DX",
+		"price": 1539.95,
 		"aperture": "f/2.8",
 		"focalRange": "17-55",
 		"filterSize": "",
@@ -623,28 +700,33 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait"
-		],
-		"rank": "2",
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "5",
 		"bestUse": "Landscape"
     },
-	{
+    {
         "brand": "Nikon",
-        "model": "",
-		"price": "",
-		"aperture": "",
-		"focalRange": "",
+        "model": "Nikkor 10-24mm f/3.5-4.5 ED AF-S DX",
+		"price": 899.95,
+		"aperture": "f/3.5-4.5",
+		"focalRange": "10-24",
 		"filterSize": "",
 		"mount": "",
-		"stabilization": "",
+		"stabilization": false,
 		"afmotor": "",
 		"zoomType": "",
 		"frontElementRotate": "",
-		"tripodMount": "",
-		"color": "",
+		"tripodMount": false,
+		"color": "Black",
 		"manualFocus": true,
 		"lensElements": {
 			"numberOfLenses": "",
@@ -660,12 +742,59 @@
 			"img/lenses/*.0.jpg",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"",
-			""
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "5",
+		"bestUse": "Landscape"
+    },
+    {
+        "brand": "Nikon",
+        "model": "Nikkor 17-35mm f/2.8 IF-ED AF-S",
+		"price": 1954.95,
+		"aperture": "f/2.8",
+		"focalRange": "17-35",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": false,
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": false,
+		"color": "Black",
+		"manualFocus": true,
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": ""
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": ""
+		},
+		"announced": "",
+		"images": [
+			"img/lenses/*.0.jpg",
+			"img/lenses/*.1.jpg"
 		],
-		"rank": "",
-		"bestUse": ""
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "5",
+		"bestUse": "Landscape"
     }
 ]
