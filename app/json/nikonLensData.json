@@ -2,6 +2,7 @@
     {
         "brand": "Nikon",
         "model": "Nikkor 18-55mm f/3.5-5.6 ED II AF-S DX",
+        "id": "nikkor-18-55mm-f3_5-5_6-ed-ii-afs-dx",
 		"price": 119.95,
 		"aperture": "f/3.5-5.6",
 		"focalRange": "18-55",
@@ -44,6 +45,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor 18-105mm f/3.5-5.6 ED VR AF-S DX",
+        "id": "nikkor-18-105mm-f3_5-5_6-ed-vr-afs-dx",
 		"price": 399.95,
 		"aperture": "f/3.5-5.6",
 		"focalRange": "18-105",
@@ -86,6 +88,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 24-70mm f/2.8 ED",
+        "id": "nikkor-24-70mm-f2_8-ed-afs",
 		"price": 1889.95,
 		"aperture": "f/2.8",
 		"focalRange": "24-70",
@@ -128,6 +131,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S DX 18-200mm f/3.5-5.6 ED VR II",
+        "id": "nikkor-18-200mm-f3_5-5_6-ed-vr-ii-afs-dx",
 		"price": 599.95,
 		"aperture": "f/3.5-5.6",
 		"focalRange": "18-200",
@@ -170,6 +174,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 14-24mm f/2.8 ED",
+        "id": "nikkor-14-24mm-f2_8-ed-afs",
 		"price": 1999.95,
 		"aperture": "f/2.8",
 		"focalRange": "14-24",
@@ -212,6 +217,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 50mm f/1.8",
+        "id": "nikkor-50mm-f1_8-afs",
 		"price": 219.95,
 		"aperture": "f/1.8",
 		"focalRange": "50",
@@ -254,6 +260,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 50mm f/1.4",
+        "id": "nikkor-50mm-f1_4-afs",
 		"price": 484.95,
 		"aperture": "f/1.4",
 		"focalRange": "50",
@@ -296,6 +303,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 300mm f/4 IF-ED",
+        "id": "nikkor-300mm-f4-if-ed-afs",
 		"price": 1494.95,
 		"aperture": "f/4",
 		"focalRange": "300",
@@ -338,6 +346,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 600mm f/4 ED VR",
+        "id": "nikkor-600mm-f4-ed-vr-afs",
 		"price": 10299.95,
 		"aperture": "f/4",
 		"focalRange": "600",
@@ -380,6 +389,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 300mm f/2.8 ED VR II",
+        "id": "nikkor-300mm-f2_8-ed-vr-ii-afs",
 		"price": 5899.95,
 		"aperture": "f/2.8",
 		"focalRange": "300",
@@ -422,6 +432,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 400mm f/2.8 ED VR",
+        "id": "nikkor-400mm-f2_8-ed-vr-afs",
 		"price": 9549.95,
 		"aperture": "f/2.8",
 		"focalRange": "400",
@@ -463,7 +474,8 @@
     },
 	{
         "brand": "Nikon",
-        "model": "Nikkor 800mm f/5.6 FL ED VR Nikon AF-S",
+        "model": "Nikkor 800mm f/5.6 FL ED VR AF-S",
+        "id": "nikkor-800mm-f5_6-fl-ed-vr-afs",
 		"price": 17899.95,
 		"aperture": "f/5.6",
 		"focalRange": "800",
@@ -506,6 +518,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S Micro 60mm f/2.8 ED",
+        "id": "nikkor-60mm-f2_8-ed-afs-micro",
 		"price": 599.95,
 		"aperture": "f/2.8",
 		"focalRange": "60",
@@ -548,6 +561,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor Micro 105mm f/2.8 IF-ED",
+        "id": "nikkor-105mm-f2_8-if-ed-afs-micro",
 		"price": 984.95,
 		"aperture": "f/2.8",
 		"focalRange": "105",
@@ -590,6 +604,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 70-200mm f/2.8 ED VR II",
+        "id": "nikkor-70-200mm-f2_8-ed-vr-ii-afs",
 		"price": 2399.95,
 		"aperture": "f/2.8",
 		"focalRange": "70-200",
@@ -632,6 +647,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 16-35mm f/4 ED VR",
+        "id": "nikkor-16-35mm-f4-ed-vr-afs",
 		"price": 1259.95,
 		"aperture": "f/4",
 		"focalRange": "16-35",
@@ -674,6 +690,7 @@
 	{
         "brand": "Nikon",
         "model": "Nikkor 17-55mm f/2.8 IF-ED AF-S DX",
+        "id": "nikkor-17-55mm-f2_8-if-ed-afs-dx",
 		"price": 1539.95,
 		"aperture": "f/2.8",
 		"focalRange": "17-55",
@@ -716,6 +733,7 @@
     {
         "brand": "Nikon",
         "model": "Nikkor 10-24mm f/3.5-4.5 ED AF-S DX",
+        "id": "nikkor-10-24mm-f3_5-4_5-ed-afs-dx",
 		"price": 899.95,
 		"aperture": "f/3.5-4.5",
 		"focalRange": "10-24",
@@ -758,6 +776,7 @@
     {
         "brand": "Nikon",
         "model": "Nikkor 17-35mm f/2.8 IF-ED AF-S",
+        "id": "nikkor-17-35mm-f2_8-if-ed-afs",
 		"price": 1954.95,
 		"aperture": "f/2.8",
 		"focalRange": "17-35",

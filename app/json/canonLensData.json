@@ -486,6 +486,7 @@
 	{
     "brand": "Canon",
     "model": "EF 85mm f/1.2L II USM",
+    "id": "ef-85mm-f1_2l-ii-usm",
 		"price": 2099.00,
 		"aperture": "",
 		"focalRange": "",
@@ -529,6 +530,7 @@
 	{
     "brand": "Canon",
     "model": "EF 100mm f/2.8L IS USM Macro",
+    "id": "ef-100mm-f2_8l-is-usm-macro",
 		"price": 949.99,
 		"aperture": "",
 		"focalRange": "",
@@ -572,6 +574,7 @@
 	{
     "brand": "Canon",
     "model": "EF 50mm f/1.2L USM",
+    "id": "ef-50mm-f1_2l-usm",
 		"price": 1549.00,
 		"aperture": "",
 		"focalRange": "",
@@ -615,6 +618,7 @@
 	{
     "brand": "Canon",
     "model": "EF 300mm f/2.8L IS II USM",
+    "id": "ef-300mm-f2_8l-is-ii-usm",
 		"price": 6599.00,
 		"aperture": "",
 		"focalRange": "",
@@ -658,6 +662,7 @@
 	{
     "brand": "Canon",
     "model": "EF-S 17-55mm f/2.8 IS USM",
+    "id": "efs-17-55mm-f2_8l-is-usm",
 		"price": 879.99,
 		"aperture": "",
 		"focalRange": "",
@@ -701,6 +706,7 @@
 	{
     "brand": "Canon",
     "model": "EF 85mm f/1.8 USM",
+    "id": "ef-85mm-f1_8l-usm",
 		"price": 419.99,
 		"aperture": "",
 		"focalRange": "",
@@ -744,6 +750,7 @@
 	{
     "brand": "Canon",
     "model": "EF 100mm f/2.8 USM Macro",
+    "id": "ef-100mm-f2_8-usm-macro",
 		"price": 599.99,
 		"aperture": "",
 		"focalRange": "",
@@ -787,6 +794,7 @@
 	{
     "brand": "Canon",
     "model": "EF 50mm f/1.4 USM",
+    "id": "ef-50mm-f1_4l-usm",
 		"price": 399.99,
 		"aperture": "",
 		"focalRange": "",
@@ -830,6 +838,7 @@
 	{
     "brand": "Canon",
     "model": "EF 600mm f/4L IS II USM",
+    "id": "ef-600mm-f4l-is-ii-usm",
 		"price": 11999.00,
 		"aperture": "",
 		"focalRange": "",
@@ -873,6 +882,7 @@
 	{
     "brand": "Canon",
     "model": "EF 500mm f/4L IS II USM",
+    "id": "ef-500mm-f4l-is-ii-usm",
 		"price": 9499.00,
 		"aperture": "",
 		"focalRange": "",
@@ -916,6 +926,7 @@
 	{
     "brand": "Canon",
     "model": "EF 200-400mm f/4L IS USM Ext 1.4x",
+    "id": "ef-200-400mm-f4l-is-usm",
 		"price": 11799.00,
 		"aperture": "",
 		"focalRange": "",
@@ -959,6 +970,7 @@
 	{
     "brand": "Canon",
     "model": "EF 400mm f/2.8L IS II USM",
+    "id": "ef-400mm-f2_8l-is-ii-usm",
 		"price": 10499.00,
 		"aperture": "",
 		"focalRange": "",
@@ -1002,6 +1014,7 @@
 	{
     "brand": "Canon",
     "model": "EF 100-400mm f/4.5-5.6L IS USM",
+    "id": "ef-100-400mm-f4_5-5_6l-is-usm",
 		"price": 1699.00,
 		"aperture": "",
 		"focalRange": "",
@@ -1045,6 +1058,7 @@
 	{
     "brand": "Canon",
     "model": "EF 400 mm f/5.6L USM",
+    "id": "ef-400mm-f5_6l-usm",
 		"price": 1339.00,
 		"aperture": "",
 		"focalRange": "",
@@ -1088,6 +1102,7 @@
 	{
     "brand": "Canon",
     "model": "EF 16-35mm f/2.8L II USM",
+    "id": "ef-16-35mm-f2_8l-ii-usm",
 		"price": 1699.00,
 		"aperture": "",
 		"focalRange": "",
