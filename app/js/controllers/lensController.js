@@ -1,5 +1,5 @@
-FindALens.controller('LensController', ['$scope', '$http',
-  function($scope, $http) {
+FindALens.controller('LensController', ['$scope', '$http', '$routeParams',
+  function($scope, $http, $routeParams) {
     $scope.message = 'This is using the lens Controller';
     $scope.landscapeMsg = 'Landscape Lenses';
     $scope.portraitMsg = 'Portrait Lenses';
@@ -19,5 +19,5 @@ FindALens.controller('LensController', ['$scope', '$http',
     $scope.orderProp = 'rank';
     $scope.numLimit = 6;
 
-
+    $scope.lensId = $routeParams.lensId;
 }]);

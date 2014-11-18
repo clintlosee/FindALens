@@ -2,6 +2,7 @@
   {
     "brand": "Canon",
     "model": "EF 16-35mm f/4L IS USM",
+    "id": "ef-16-35mm-f4l-is-usm",
     "price": 1199.00,
     "aperture": "f/4",
     "focalRange": "16-35",
@@ -45,6 +46,7 @@
   {
     "brand": "Canon",
     "model": "EF-S 10-22mm f/3.5-4.5 USM",
+    "id": "efs-10-22mm-usm",
     "price": 649.99,
     "aperture": "",
     "focalRange": "",
@@ -88,6 +90,7 @@
 	{
     "brand": "Canon",
     "model": "EF 24-105 f/4L IS USM",
+    "id": "ef-24-105mm-f4l-is-usm",
 		"price": 1149.00,
 		"aperture": "",
 		"focalRange": "",
@@ -131,6 +134,7 @@
 	{
     "brand": "Canon",
     "model": "EF 24-70mm f/4L IS USM",
+    "id": "ef-24-70mm-f4l-is-usm",
 		"price": 999.99,
 		"aperture": "",
 		"focalRange": "",
@@ -174,6 +178,7 @@
 	{
     "brand": "Canon",
     "model": "EF 24-70mm f/2.8L II USM",
+    "id": "ef-24-70mm-f2_8l-ii-usm",
 		"price": 2099.00,
 		"aperture": "",
 		"focalRange": "",
@@ -217,6 +222,7 @@
 	{
     "brand": "Canon",
     "model": "EF 17-40mm f/4L USM",
+    "id": "ef-17-40mm-f4l-usm",
 		"price": 839.99,
 		"aperture": "",
 		"focalRange": "",
@@ -260,6 +266,7 @@
 	{
     "brand": "Canon",
     "model": "EF 70-300mm f/4-5.6L IS USM",
+    "id": "ef-70-300mm-f4-5_6l-is-usm",
 		"price": 1449.00,
 		"aperture": "",
 		"focalRange": "",
@@ -303,6 +310,7 @@
 	{
     "brand": "Canon",
     "model": "EF 70-200mm f/4L IS USM",
+    "id": "ef-70-200mm-f4l-is-usm",
 		"price": 1299.00,
 		"aperture": "",
 		"focalRange": "",
@@ -346,6 +354,7 @@
     {
     "brand": "Canon",
     "model": "EF 70-200mm f/4L USM",
+    "id": "ef-70-200mm-f4l-usm",
 		"price": 709.99,
 		"aperture": "",
 		"focalRange": "",
@@ -389,6 +398,7 @@
 	{
     "brand": "Canon",
     "model": "EF 24mm f/1.4L II USM",
+    "id": "ef-24mm-f1_4l-is-usm",
 		"price": 1649.00,
 		"aperture": "",
 		"focalRange": "",
@@ -432,6 +442,7 @@
 	{
     "brand": "Canon",
     "model": "EF 70-200mm f/2.8L IS II USM",
+    "id": "ef-70-200mm-f2_8l-is-ii-usm",
 		"price": 2299.00,
 		"aperture": "",
 		"focalRange": "",

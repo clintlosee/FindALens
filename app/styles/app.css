@@ -1,4 +1,64 @@
 /* app css stylesheet */
+a {
+  color: #fff; }
+
+/******* Main Content *******/
+body#background {
+  background: url("../img/background/bg1.jpg") no-repeat center center fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover; }
+
+* {
+  margin: 0; }
+
+html, body {
+  height: 100%; }
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -8em; }
+
+.footer, .push {
+  height: 4em; }
+
+	                        /********* Buttons ********
+   see http://sixrevisions.com/css/ghost-buttons/ for more details *******
+
+.ghost-button {
+	display: inline-block;
+	width: 200px;
+	padding: 8px;
+	color: #fff;
+	border: 1px solid #fff; /* Thick border use 3px
+	text-align: center;
+	outline: none;
+	text-decoration: none;
+}
+.ghost-button:hover, .ghost-button:active {
+	background-color: #fff;
+	color: #000;
+}*/
+/************************************************ Simple Transition */
+a.ghost-button {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff !important;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  transition: background-color 0.2s ease-out, color 0.2s ease-in; }
+
+a.ghost-button:hover, a.ghost-button:active {
+  background-color: #fff;
+  color: #000 !important;
+  transition: background-color 0.3s ease-in, color 0.3s ease-in; }
+
 #content {
   padding-top: 50px; }
 
@@ -19,7 +79,5 @@
 /****** Footer ******/
 footer {
   background-color: #222;
-  padding: 30px 0;
+  padding: 16px 0;
   margin: 50px 0 0; }
-
-/*# sourceMappingURL=app.css.map */
