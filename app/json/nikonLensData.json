@@ -26,7 +26,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300",
 			"img/lenses/*.1.jpg"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
@@ -69,8 +70,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-18-105-3.5-5.6.png",
+			"http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -112,8 +113,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -155,8 +156,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -198,8 +199,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-14-24-2.8.png",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -241,8 +242,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -284,8 +285,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-50-1.4.jpg",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -327,8 +328,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -370,8 +371,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -413,8 +414,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -456,8 +457,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -499,8 +500,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-800-5.6.jpg",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -542,8 +543,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -585,8 +586,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -628,8 +629,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-70-200-2.8-vr-ii.jpg",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -671,8 +672,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -714,8 +715,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -757,8 +758,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -800,8 +801,8 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -815,5 +816,134 @@
 	    },
 		"rank": "5",
 		"bestUse": "Landscape"
-    }
+  },
+  {
+      "brand": "Nikon",
+      "model": "Nikkor 35mm f/1.8 AF-S DX",
+      "id": "nikkor-35mm-f1_8-afs-dv",
+  "price": 1.95,
+  "aperture": "f/1.8",
+  "focalRange": "35",
+  "filterSize": "",
+  "mount": "",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+    "img/lenses/nikon-35-1.8g-dx.jpg",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+  "rank": "7",
+  "bestUse": "Portrait"
+  },
+  {
+  "brand": "Nikon",
+  "model": "Nikkor 70-300mm f/4.5-5.6 AF-S",
+  "id": "nikkor-70-300mm-f4_5-5_6-afs",
+  "price": 4.95,
+  "aperture": "f/4.5-5.6",
+  "focalRange": "70-300",
+  "filterSize": "",
+  "mount": "",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+    "img/lenses/nikon-70-300-4.5-5.6g.jpg",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+  "rank": "9",
+  "bestUse": "Portrait"
+  },
+  {
+  "brand": "Nikon",
+  "model": "Nikkor 85mm f/1.8G AF-S",
+  "id": "nikkor-85mm-f1_8-afs",
+  "price": 2.95,
+  "aperture": "f/1.8",
+  "focalRange": "85",
+  "filterSize": "",
+  "mount": "",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+    "img/lenses/nikon-85-1.8g.png",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+  "rank": "1",
+  "bestUse": "Portrait"
+  }
 ]
