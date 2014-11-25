@@ -30,9 +30,16 @@ FindALens.controller('LensController', ['$scope', '$http', '$routeParams',
     $scope.lensId = $routeParams.lensId;
 }]);
 
-FindALens.controller('LensViewController', ['$scope', '$routeParams',
-  function($scope, $routeParams) {
+FindALens.controller('LensViewController', ['$scope', '$http', '$routeParams',
+  function($scope, $http, $routeParams) {
     $scope.lensId = $routeParams.lensId;
+
+
+    $http.get('json/' + $routeParams.lensId + '.json').success(function(data) {
+      $scope.lens = data;
+    });
+
+
 }]);
 
 FindALens.controller('MainController', function($scope) {

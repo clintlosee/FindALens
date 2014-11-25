@@ -25,7 +25,7 @@ html, body {
 .footer, .push {
   height: 4em; }
 
-/********* Buttons ********
+	                        /********* Buttons ********
    see http://sixrevisions.com/css/ghost-buttons/ for more details *******
 
 .ghost-button {
@@ -81,5 +81,3 @@ footer {
   background-color: #222;
   padding: 16px 0;
   margin: 50px 0 0; }
-
-/*# sourceMappingURL=app.css.map */

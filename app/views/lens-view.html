@@ -3,13 +3,34 @@ TBD: detail view for <span>{{ lensId }}</span>
 
 
 <div class="jumbotron">
-  <h1>{{ lensId }}</h1>
-<img src="" alt="Lens Images" />
-
+  <h1>{{ lens.model }}</h1>
+  <img ng-src="{{ lens.images[1] }}" alt="Lens Images" />
 
 </div>
 
 <div class="container">
-<h2>Lens Information</h2>
+  <h2>Lens Information</h2>
+
+
+  <p>{{ lens.description }}</p>
+
+  <ul class="">
+    <li ng-repeat="lens in lens.images">
+      <img ng-src="">
+    </li>
+  </ul>
+
+  <ul class="specs">
+    <li>
+      <span>Features</span>
+      <dd></dd>
+    </li>
+  </ul>
+
+
+
+
+
+
 
 </div>
