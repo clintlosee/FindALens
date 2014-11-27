@@ -1,36 +1,38 @@
-<div class="row text-center">
-  <a href="#/nikon" class="cameraLogo"><img src="img/nikon_logo.png" alt="Nikon" class="col-md-4 col-md-offset-4 col-xs-12" /></a>
-</div>
+<div class="container">
+  <div class="row text-center">
+    <a href="#/nikon" class="cameraLogo"><img src="img/nikon_logo.png" alt="Nikon" class="col-md-4 col-md-offset-4 col-xs-12" /></a>
+  </div>
 
-<div class="col-md-12">
-  <h2>{{ travelMsg }}</h2>
-</div>
+  <div class="col-md-12">
+    <h2>{{ travelMsg }}</h2>
+  </div>
 
-<div class="row">
+  <div class="row">
 
-  <div class="col-md-4">
+    <div class="col-md-4">
 
-    <span>Order By:</span>
-    <select ng-model="orderProp" class="form-control" name="">
-      <option selected value="rank">Rank</option>
-      <option selected value="price">Price</option>
-    </select>
+      <span>Order By:</span>
+      <select ng-model="orderProp" class="form-control" name="">
+        <option selected value="rank">Rank</option>
+        <option selected value="price">Price</option>
+      </select>
+
+    </div>
 
   </div>
 
-</div>
-
-<div class="row">
-  <div class="col-sm-6 col-md-4" ng-repeat="nikonLens in nikonLenses | filter: { bestUse: 'Travel' } | orderBy:orderProp | limitTo:numLimit">
-    <div class="thumbnail">
-      <a href="#/lens/{{ nikonLens.id }}"><img ng-src="{{ nikonLens.images[0] }}" class="img-responsive" alt="..."></a>
-      <div class="caption">
-        <h3>{{ nikonLens.model }}</h3>
-        <p>{{ nikonLens.description }}</p>
-        <p>{{ nikonLens.price | currency }}</p>
-        <p>{{ nikonLens.bestUse }}</p>
-        <span class="badge pull-left">{{ nikonLens.rank }}</span>
-        <a href="#" class="btn btn-info" role="button">Information</a>
+  <div class="row">
+    <div class="col-sm-6 col-md-4" ng-repeat="nikonLens in nikonLenses | filter: { bestUse: 'Travel' } | orderBy:orderProp | limitTo:numLimit">
+      <div class="thumbnail">
+        <a href="#/lens/{{ nikonLens.id }}"><img ng-src="{{ nikonLens.images[0] }}" class="img-responsive" alt="..."></a>
+        <div class="caption">
+          <h3>{{ nikonLens.model }}</h3>
+          <p>{{ nikonLens.description }}</p>
+          <p>{{ nikonLens.price | currency }}</p>
+          <p>{{ nikonLens.bestUse }}</p>
+          <span class="badge pull-left">{{ nikonLens.rank }}</span>
+          <a href="#" class="btn btn-info" role="button">Information</a>
+        </div>
       </div>
     </div>
   </div>
