@@ -4,15 +4,15 @@
   "id": "efs-10-22mm-usm",
   "price": 649.99,
   "aperture": "",
-  "focalRange": "10-22",
+  "focalRange": "",
   "filterSize": "",
   "mount": "Canon EF-S",
-  "stabilization": false,
+  "stabilization": "",
   "afmotor": "",
   "zoomType": "",
-  "frontElementRotate": false,
-  "tripodMount": false,
-  "color": "Black",
+  "frontElementRotate": "",
+  "tripodMount": "",
+  "color": "",
   "manualFocus": "",
   "lensElements": {
     "numberOfLenses": "",
@@ -40,5 +40,6 @@
     "useSeven": "Travel"
   },
   "rank": "3",
-  "bestUse": "Landscape"
+  "bestUse": "Landscape",
+  "amazonLink": ""
 }

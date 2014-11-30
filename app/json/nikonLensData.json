@@ -41,7 +41,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "4",
-		"bestUse": "Landscape"
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -84,7 +85,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "5",
-		"bestUse": "Landscape"
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -127,7 +129,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "2",
-		"bestUse": "Portrait"
+		"bestUse": "Portrait",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -170,7 +173,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "2",
-		"bestUse": "Travel"
+		"bestUse": "Travel",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -214,7 +218,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "1",
-		"bestUse": "Landscape"
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -257,7 +262,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "4",
-		"bestUse": "Portrait"
+		"bestUse": "Portrait",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -300,7 +306,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "3",
-		"bestUse": "Portrait"
+		"bestUse": "Portrait",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -343,7 +350,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "3",
-		"bestUse": "Wildlife"
+		"bestUse": "Wildlife",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -386,7 +394,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "2",
-		"bestUse": "Wildlife"
+		"bestUse": "Wildlife",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -429,7 +438,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "3",
-		"bestUse": "Sports"
+		"bestUse": "Sports",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -472,7 +482,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "2",
-		"bestUse": "Sports"
+		"bestUse": "Sports",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -515,7 +526,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "1",
-		"bestUse": "Wildlife"
+		"bestUse": "Wildlife",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -558,7 +570,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "2",
-		"bestUse": "Macro"
+		"bestUse": "Macro",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -601,7 +614,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "1",
-		"bestUse": "Macro"
+		"bestUse": "Macro",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -644,7 +658,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "1",
-		"bestUse": "Sports"
+		"bestUse": "Sports",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -687,7 +702,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "2",
-		"bestUse": "Landscape"
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
@@ -730,7 +746,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "5",
-		"bestUse": "Landscape"
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
     {
         "brand": "Nikon",
@@ -775,7 +792,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "5",
-		"bestUse": "Landscape"
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
     {
         "brand": "Nikon",
@@ -818,7 +836,8 @@
 	    	"useSeven": "Travel"
 	    },
 		"rank": "5",
-		"bestUse": "Landscape"
+		"bestUse": "Landscape",
+    "amazonLink": ""
   },
   {
   "brand": "Nikon",
@@ -861,7 +880,8 @@
       "useSeven": "Travel"
     },
   "rank": "7",
-  "bestUse": "Portrait"
+  "bestUse": "Portrait",
+  "amazonLink": ""
   },
   {
   "brand": "Nikon",
@@ -904,7 +924,8 @@
       "useSeven": "Travel"
     },
   "rank": "9",
-  "bestUse": "Portrait"
+  "bestUse": "Portrait",
+  "amazonLink": ""
   },
   {
   "brand": "Nikon",
@@ -947,7 +968,8 @@
       "useSeven": "Travel"
     },
   "rank": "1",
-  "bestUse": "Portrait"
+  "bestUse": "Portrait",
+  "amazonLink": ""
   },
   {
   "brand": "Nikon",
@@ -990,7 +1012,8 @@
       "useSeven": "Travel"
     },
   "rank": "10",
-  "bestUse": "Landscape"
+  "bestUse": "Landscape",
+  "amazonLink": ""
   },
   {
   "brand": "Nikon",
@@ -1033,7 +1056,8 @@
       "useSeven": "Travel"
     },
   "rank": "11",
-  "bestUse": "Landscape"
+  "bestUse": "Landscape",
+  "amazonLink": ""
   },
   {
   "brand": "Nikon",
@@ -1076,6 +1100,7 @@
       "useSeven": "Travel"
     },
   "rank": "3",
-  "bestUse": "Landscape"
+  "bestUse": "Landscape",
+  "amazonLink": ""
   }
 ]

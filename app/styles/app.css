@@ -60,7 +60,7 @@ a.ghost-button:hover, a.ghost-button:active {
   transition: background-color 0.3s ease-in, color 0.3s ease-in; }
 
 #content {
-  padding-top: 50px; }
+  padding-top: 70px; }
 
 #canon, #nikon {
   height: 200px;
@@ -72,9 +72,23 @@ a.ghost-button:hover, a.ghost-button:active {
 #nikon a {
   color: red; }
 
-.lens-list a {
-  height: 10em;
-  margin: 10px 0; }
+.lens-list {
+  padding-top: 20px; }
+
+.lens-feature {
+  margin-top: -20px;
+  background-color: #fff; }
+
+.lens-feature h1 {
+  color: #ff6600; }
+
+#lens-content {
+  background-color: #fefefe;
+  color: #333;
+  padding: 10px; }
+
+#lens-content ul li {
+  list-style-type: none; }
 
 /****** Footer ******/
 footer {

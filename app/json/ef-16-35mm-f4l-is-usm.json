@@ -27,7 +27,8 @@
   "images": [
     "http://placehold.it/350x300",
     "img/lenses/canon-16-35-4.gif",
-    "img/lenses/*.1.gif"
+    "http://placehold.it/250x300",
+    "http://placehold.it/300x300"
   ],
   "description": "Canon has been instrumental in offering lightweight f/4 lenses for professional users, and this new ultra-wide angle zoom L-series model is the first from the maker to include stabilization.",
   "uses": {
@@ -40,5 +41,6 @@
     "useSeven": "Travel"
   },
   "rank": "1",
-  "bestUse": "Landscape"
+  "bestUse": "Landscape",
+  "amazonLink": "http://www.amazon.com/gp/product/B00K8942SO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00K8942SO&linkCode=as2&tag=clinlosephot-20&linkId=WME7FHHCTEKA6FOI"
 }

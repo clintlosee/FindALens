@@ -1,8 +1,8 @@
 {
   "brand": "Canon",
-  "model": "EF 24-70mm f/2.8L II USM",
-  "id": "ef-24-70mm-f2_8l-ii-usm",
-  "price": 2099.00,
+  "model": "EF 70-300mm f/4-5.6L IS USM",
+  "id": "ef-70-300mm-f4-5_6l-is-usm",
+  "price": 1449.00,
   "aperture": "",
   "focalRange": "",
   "filterSize": "",
@@ -26,10 +26,10 @@
   "announced": "",
   "images": [
     "http://placehold.it/350x300",
-    "img/lenses/canon-24-70-2.8.gif",
+    "img/lenses/canon-70-300-L.gif",
     "img/lenses/*.1.gif"
   ],
-  "description": "The Canon EF 24-70mm f/2.8L II USM is the kind of lens that's always going to be held up to high scrutiny - it's the company's flagship standard zoom for professional photographers, and is expected to deliver top-notch results under all conditions. Happily, that's exactly what it does.",
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
   "uses": {
     "useOne": "Landscape",
     "useTwo": "Portrait",
@@ -39,7 +39,7 @@
     "useSix": "Wedding",
     "useSeven": "Travel"
   },
-  "rank": "1",
-  "bestUse": "Portrait",
+  "rank": "7",
+  "bestUse": "Wildlife",
   "amazonLink": ""
 }
