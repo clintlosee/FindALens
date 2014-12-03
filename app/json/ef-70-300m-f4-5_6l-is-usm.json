@@ -1,0 +1,44 @@
+{
+"brand": "Canon",
+"model": "EF 70-300mm f/4-5.6L IS USM",
+"id": "ef-70-300mm-f4-5_6l-is-usm",
+     "price": 1449.00,
+     "aperture": "",
+     "focalRange": "",
+     "filterSize": "",
+     "mount": "Canon EF",
+     "stabilization": "",
+     "afmotor": "",
+     "zoomType": "",
+     "frontElementRotate": "",
+     "tripodMount": "",
+     "color": "",
+     "manualFocus": "",
+     "lensElements": {
+          "numberOfLenses": "",
+          "numberOfGroups": "",
+          "diaphragmBlades": ""
+     },
+     "sizeAndWeight": {
+          "length": "",
+          "weight": ""
+     },
+     "announced": "",
+     "images": [
+"http://placehold.it/350x300",
+"img/lenses/canon-70-300-L.gif",
+"img/lenses/*.1.gif"
+],
+     "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+     "uses": {
+"useOne": "Landscape",
+"useTwo": "Portrait",
+"useThree": "Sports",
+"useFour": "Wildlife",
+"useFive": "Macro",
+"useSix": "Wedding",
+"useSeven": "Travel"
+},
+     "rank": "7",
+     "bestUse": "Wildlife"
+}

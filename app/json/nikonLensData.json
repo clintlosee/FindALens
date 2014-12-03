@@ -1,8 +1,9 @@
 [
     {
         "brand": "Nikon",
-        "model": "Nikkor 18-55mm f/3.5-5.6 VR AF-S DX",
-		"price": "",
+        "model": "Nikkor 18-55mm f/3.5-5.6 ED II AF-S DX",
+        "id": "nikkor-18-55mm-f3_5-5_6-ed-ii-afs-dx",
+		"price": 119.95,
 		"aperture": "f/3.5-5.6",
 		"focalRange": "18-55",
 		"filterSize": "",
@@ -25,21 +26,29 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300",
 			"img/lenses/*.1.jpg"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Travel"
-		],
-		"rank": "",
-		"bestUse": "Landscape"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "4",
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor 18-105mm f/3.5-5.6 ED VR AF-S DX",
-		"price": "",
+        "id": "nikkor-18-105mm-f3_5-5_6-ed-vr-afs-dx",
+		"price": 399.95,
 		"aperture": "f/3.5-5.6",
 		"focalRange": "18-105",
 		"filterSize": "",
@@ -62,21 +71,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-18-105-3.5-5.6.png",
+			"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Travel"
-		],
-		"rank": "",
-		"bestUse": "Landscape"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "5",
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 24-70mm f/2.8 ED",
-		"price": "",
+        "id": "nikkor-24-70mm-f2_8-ed-afs",
+		"price": 1889.95,
 		"aperture": "f/2.8",
 		"focalRange": "24-70",
 		"filterSize": "",
@@ -99,22 +115,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait",
-			"Travel"
-		],
-		"rank": "",
-		"bestUse": ""
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
+		"bestUse": "Portrait",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S DX 18-200mm f/3.5-5.6 ED VR II",
-		"price": "",
+        "id": "nikkor-18-200mm-f3_5-5_6-ed-vr-ii-afs-dx",
+		"price": 599.95,
 		"aperture": "f/3.5-5.6",
 		"focalRange": "18-200",
 		"filterSize": "",
@@ -137,25 +159,32 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Travel"
-		],
-		"rank": "",
-		"bestUse": ""
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
+		"bestUse": "Travel",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 14-24mm f/2.8 ED",
-		"price": "",
+        "id": "nikkor-14-24mm-f2_8-ed-afs",
+		"price": 1999.95,
 		"aperture": "f/2.8",
 		"focalRange": "14-24",
 		"filterSize": "",
-		"mount": "",
+		"mount": "DX or FX",
 		"stabilization": false,
 		"afmotor": "",
 		"zoomType": "",
@@ -174,21 +203,29 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-14-24-2.8.png",
+			"img/lenses/nikon-14-24-2.8-B.jpg",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			""
-		],
-		"rank": "",
-		"bestUse": "Landscape"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "1",
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 50mm f/1.8",
-		"price": "",
+        "id": "nikkor-50mm-f1_8-afs",
+		"price": 219.95,
 		"aperture": "f/1.8",
 		"focalRange": "50",
 		"filterSize": "",
@@ -211,21 +248,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+     		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait"
-		],
-		"rank": "",
-		"bestUse": "Portrait"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "4",
+		"bestUse": "Portrait",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 50mm f/1.4",
-		"price": "",
+        "id": "nikkor-50mm-f1_4-afs",
+		"price": 484.95,
 		"aperture": "f/1.4",
 		"focalRange": "50",
 		"filterSize": "",
@@ -248,21 +292,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-50-1.4.jpg",
+     		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait"
-		],
-		"rank": "",
-		"bestUse": "Portrait"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "3",
+		"bestUse": "Portrait",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
-        "model": "Nikkor AF-S 300mm f/4 ED-IF",
-		"price": "",
+        "model": "Nikkor AF-S 300mm f/4 IF-ED",
+        "id": "nikkor-300mm-f4-if-ed-afs",
+		"price": 1494.95,
 		"aperture": "f/4",
 		"focalRange": "300",
 		"filterSize": "",
@@ -285,21 +336,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Wildlife"
-		],
-		"rank": "",
-		"bestUse": "Wildlife"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "3",
+		"bestUse": "Wildlife",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 600mm f/4 ED VR",
-		"price": "",
+        "id": "nikkor-600mm-f4-ed-vr-afs",
+		"price": 10299.95,
 		"aperture": "f/4",
 		"focalRange": "600",
 		"filterSize": "",
@@ -322,21 +380,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Sports",
-			"Wildlife"
-		],
-		"rank": "",
-		"bestUse": "Wildlife"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
+		"bestUse": "Wildlife",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 300mm f/2.8 ED VR II",
-		"price": "",
+        "id": "nikkor-300mm-f2_8-ed-vr-ii-afs",
+		"price": 5899.95,
 		"aperture": "f/2.8",
 		"focalRange": "300",
 		"filterSize": "",
@@ -359,22 +424,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Wildlife",
-			"Sports"
-		],
-		"rank": "",
-		"bestUse": "Sports"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "3",
+		"bestUse": "Sports",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 400mm f/2.8 ED VR",
-		"price": "",
+        "id": "nikkor-400mm-f2_8-ed-vr-afs",
+		"price": 9549.95,
 		"aperture": "f/2.8",
 		"focalRange": "400",
 		"filterSize": "",
@@ -397,21 +468,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Sports",
-			"Wildlife"
-		],
-		"rank": "",
-		"bestUse": "Wildlife"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
+		"bestUse": "Sports",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
-        "model": "Nikkor 800mm f/5.6 FL ED VR Nikon AF-S 800mm",
-		"price": "",
+        "model": "Nikkor 800mm f/5.6 FL ED VR AF-S",
+        "id": "nikkor-800mm-f5_6-fl-ed-vr-afs",
+		"price": 17899.95,
 		"aperture": "f/5.6",
 		"focalRange": "800",
 		"filterSize": "",
@@ -434,21 +512,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-800-5.6.jpg",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Wildlife",
-			""
-		],
-		"rank": "",
-		"bestUse": "Wildlife"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "1",
+		"bestUse": "Wildlife",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S Micro 60mm f/2.8 ED",
-		"price": "",
+        "id": "nikkor-60mm-f2_8-ed-afs-micro",
+		"price": 599.95,
 		"aperture": "f/2.8",
 		"focalRange": "60",
 		"filterSize": "",
@@ -471,21 +556,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Macro",
-			""
-		],
-		"rank": "",
-		"bestUse": "Macro"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
+		"bestUse": "Macro",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
-        "model": "Nikkor Micro 105mm f/2.8 AIS",
-		"price": "",
+        "model": "Nikkor Micro 105mm f/2.8 IF-ED",
+        "id": "nikkor-105mm-f2_8-if-ed-afs-micro",
+		"price": 984.95,
 		"aperture": "f/2.8",
 		"focalRange": "105",
 		"filterSize": "",
@@ -508,21 +600,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Portrait",
-			"Macro"
-		],
-		"rank": "",
-		"bestUse": "Macro"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "1",
+		"bestUse": "Macro",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 70-200mm f/2.8 ED VR II",
-		"price": "",
+        "id": "nikkor-70-200mm-f2_8-ed-vr-ii-afs",
+		"price": 2399.95,
 		"aperture": "f/2.8",
 		"focalRange": "70-200",
 		"filterSize": "",
@@ -545,26 +644,32 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-70-200-2.8-vr-ii.jpg",
+      "http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait",
-			"Sports"
-		],
-		"rank": "",
-		"bestUse": "Sports"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "1",
+		"bestUse": "Sports",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
         "model": "Nikkor AF-S 16-35mm f/4 ED VR",
-		"price": "",
+        "id": "nikkor-16-35mm-f4-ed-vr-afs",
+		"price": 1259.95,
 		"aperture": "f/4",
 		"focalRange": "16-35",
 		"filterSize": "",
-		"mount": "",
+		"mount": "DX or FX",
 		"stabilization": true,
 		"afmotor": "",
 		"zoomType": "",
@@ -583,21 +688,28 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-16-35.jpg",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			""
-		],
-		"rank": "",
-		"bestUse": "Landscape"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "2",
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
 	{
         "brand": "Nikon",
-        "model": "Nikkor 17-55mm f/2.8 ED-IF AF-S DX",
-		"price": "",
+        "model": "Nikkor 17-55mm f/2.8 IF-ED AF-S DX",
+        "id": "nikkor-17-55mm-f2_8-if-ed-afs-dx",
+		"price": 1539.95,
 		"aperture": "f/2.8",
 		"focalRange": "17-55",
 		"filterSize": "",
@@ -620,31 +732,38 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"http://placehold.it/350x300",
+      "http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"Landscape",
-			"Portrait"
-		],
-		"rank": "2",
-		"bestUse": "Landscape"
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "5",
+		"bestUse": "Landscape",
+    "amazonLink": ""
     },
-	{
+    {
         "brand": "Nikon",
-        "model": "",
-		"price": "",
-		"aperture": "",
-		"focalRange": "",
+        "model": "Nikkor 10-24mm f/3.5-4.5 ED AF-S DX",
+        "id": "nikkor-10-24mm-f3_5-4_5-ed-afs-dx",
+		"price": 899.95,
+		"aperture": "f/3.5-4.5",
+		"focalRange": "10-24",
 		"filterSize": "",
-		"mount": "",
-		"stabilization": "",
+		"mount": "DX",
+		"stabilization": false,
 		"afmotor": "",
 		"zoomType": "",
 		"frontElementRotate": "",
-		"tripodMount": "",
-		"color": "",
+		"tripodMount": false,
+		"color": "Black",
 		"manualFocus": true,
 		"lensElements": {
 			"numberOfLenses": "",
@@ -657,15 +776,331 @@
 		},
 		"announced": "",
 		"images": [
-			"img/lenses/*.0.jpg",
-			"img/lenses/*.1.jpg"
+			"img/lenses/nikon-10-24.jpg",
+			"img/lenses/nikon-10-24-B.jpg",
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300"
 		],
-		"description": "",
-		"uses": [
-			"",
-			""
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "5",
+		"bestUse": "Landscape",
+    "amazonLink": ""
+    },
+    {
+        "brand": "Nikon",
+        "model": "Nikkor 17-35mm f/2.8 IF-ED AF-S",
+        "id": "nikkor-17-35mm-f2_8-if-ed-afs",
+		"price": 1954.95,
+		"aperture": "f/2.8",
+		"focalRange": "17-35",
+		"filterSize": "",
+		"mount": "",
+		"stabilization": false,
+		"afmotor": "",
+		"zoomType": "",
+		"frontElementRotate": "",
+		"tripodMount": false,
+		"color": "Black",
+		"manualFocus": true,
+		"lensElements": {
+			"numberOfLenses": "",
+			"numberOfGroups": "",
+			"diaphragmBlades": ""
+		},
+		"sizeAndWeight": {
+			"length": "",
+			"weight": ""
+		},
+		"announced": "",
+		"images": [
+			"http://placehold.it/350x300",
+      		"http://placehold.it/350x300"
 		],
-		"rank": "",
-		"bestUse": ""
-    }
+		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+		"uses": {
+	    	"useOne": "Landscape",
+	    	"useTwo": "Portrait",
+	    	"useThree": "Sports",
+	    	"useFour": "Wildlife",
+	    	"useFive": "Macro",
+	    	"useSix": "Wedding",
+	    	"useSeven": "Travel"
+	    },
+		"rank": "5",
+		"bestUse": "Landscape",
+    "amazonLink": ""
+  },
+  {
+  "brand": "Nikon",
+  "model": "Nikkor 35mm f/1.8 AF-S DX",
+  "id": "nikkor-35mm-f1_8-afs-dx",
+  "price": 1.95,
+  "aperture": "f/1.8",
+  "focalRange": "35",
+  "filterSize": "",
+  "mount": "",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+    "img/lenses/nikon-35-1.8g-dx.jpg",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+  "rank": "7",
+  "bestUse": "Portrait",
+  "amazonLink": ""
+  },
+  {
+  "brand": "Nikon",
+  "model": "Nikkor 70-300mm f/4.5-5.6 AF-S",
+  "id": "nikkor-70-300mm-f4_5-5_6-afs",
+  "price": 4.95,
+  "aperture": "f/4.5-5.6",
+  "focalRange": "70-300",
+  "filterSize": "",
+  "mount": "",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+    "img/lenses/nikon-70-300-4.5-5.6g.jpg",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+  "rank": "9",
+  "bestUse": "Portrait",
+  "amazonLink": ""
+  },
+  {
+  "brand": "Nikon",
+  "model": "Nikkor 85mm f/1.8G AF-S",
+  "id": "nikkor-85mm-f1_8-afs",
+  "price": 2.95,
+  "aperture": "f/1.8",
+  "focalRange": "85",
+  "filterSize": "",
+  "mount": "",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+    "img/lenses/nikon-85-1.8g.png",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+  "rank": "1",
+  "bestUse": "Portrait",
+  "amazonLink": ""
+  },
+  {
+  "brand": "Nikon",
+  "model": "Nikkor 18-35mm f/3.5-4.5G ED AF-S",
+  "id": "nikkor-18-35mm-f3_5-4_5g-ed",
+  "price": 2.95,
+  "aperture": "f/3.5-4.5",
+  "focalRange": "18-35",
+  "filterSize": "",
+  "mount": "DX or FX",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+  	"img/lenses/nikon-18-35.jpg",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+  "rank": "10",
+  "bestUse": "Landscape",
+  "amazonLink": ""
+  },
+  {
+  "brand": "Nikon",
+  "model": "Nikkor 20mm f/1.8G AF-S",
+  "id": "nikkor-20mm-f1_8-afs",
+  "price": 2.95,
+  "aperture": "f/1.8",
+  "focalRange": "20",
+  "filterSize": "",
+  "mount": "DX or FX",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+  	"img/lenses/nikon-20-1.8.jpg",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+  "rank": "11",
+  "bestUse": "Landscape",
+  "amazonLink": ""
+  },
+  {
+  "brand": "Nikon",
+  "model": "Nikkor 28mm f/1.8G AF-S",
+  "id": "nikkor-85mm-f1_8-afs",
+  "price": 2.95,
+  "aperture": "f/1.8",
+  "focalRange": "28",
+  "filterSize": "",
+  "mount": "DX or FX",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+  	"img/lenses/nikon-28-1.8.jpg",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+      "useOne": "Landscape",
+      "useTwo": "Portrait",
+      "useThree": "Sports",
+      "useFour": "Wildlife",
+      "useFive": "Macro",
+      "useSix": "Wedding",
+      "useSeven": "Travel"
+    },
+  "rank": "3",
+  "bestUse": "Landscape",
+  "amazonLink": ""
+  }
 ]

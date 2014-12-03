@@ -1,0 +1,43 @@
+{
+   "brand": "Nikon",
+   "model": "Nikkor 800mm f/5.6 FL ED VR AF-S",
+   "id": "nikkor-800mm-f5_6-fl-ed-vr-afs",
+     "price": 17899.95,
+     "aperture": "f/5.6",
+     "focalRange": "800",
+     "filterSize": "",
+     "mount": "",
+     "stabilization": true,
+     "afmotor": "",
+     "zoomType": "",
+     "frontElementRotate": "",
+     "tripodMount": true,
+     "color": "",
+     "manualFocus": true,
+     "lensElements": {
+          "numberOfLenses": "",
+          "numberOfGroups": "",
+          "diaphragmBlades": ""
+     },
+     "sizeAndWeight": {
+          "length": "",
+          "weight": ""
+     },
+     "announced": "",
+     "images": [
+          "img/lenses/nikon-800-5.6.jpg",
+           "http://placehold.it/350x300"
+     ],
+     "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+     "uses": {
+         "useOne": "Landscape",
+         "useTwo": "Portrait",
+         "useThree": "Sports",
+         "useFour": "Wildlife",
+         "useFive": "Macro",
+         "useSix": "Wedding",
+         "useSeven": "Travel"
+    },
+     "rank": "1",
+     "bestUse": "Wildlife"
+}

@@ -1,0 +1,44 @@
+{
+  "brand": "Nikon",
+  "model": "Nikkor AF-S 14-24mm f/2.8 ED",
+  "id": "nikkor-14-24mm-f2_8-ed-afs",
+  "price": 1999.95,
+  "aperture": "f/2.8",
+  "focalRange": "14-24",
+  "filterSize": "",
+  "mount": "DX or FX",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": false,
+  "color": "Black",
+  "manualFocus": true,
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+    "img/lenses/nikon-14-24-2.8.png",
+    "img/lenses/nikon-14-24-2.8-B.jpg",
+    "http://placehold.it/350x300"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+    "useOne": "Landscape",
+    "useTwo": "Portrait",
+    "useThree": "Sports",
+    "useFour": "Wildlife",
+    "useFive": "Macro",
+    "useSix": "Wedding",
+    "useSeven": "Travel"
+  },
+  "rank": "1",
+  "bestUse": "Landscape"
+}

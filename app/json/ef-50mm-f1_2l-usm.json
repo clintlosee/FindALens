@@ -1,0 +1,44 @@
+{
+"brand": "Canon",
+"model": "EF 50mm f/1.2L USM",
+"id": "ef-50mm-f1_2l-usm",
+     "price": 1549.00,
+     "aperture": "f/1.2",
+     "focalRange": "50mm",
+     "filterSize": "",
+     "mount": "Canon EF",
+     "stabilization": false,
+     "afmotor": "",
+     "zoomType": "None",
+     "frontElementRotate": "",
+     "tripodMount": "",
+     "color": "Black",
+     "manualFocus": "",
+     "lensElements": {
+          "numberOfLenses": "",
+          "numberOfGroups": "",
+          "diaphragmBlades": ""
+     },
+     "sizeAndWeight": {
+          "length": "",
+          "weight": ""
+     },
+     "announced": "",
+     "images": [
+"http://placehold.it/350x300",
+"img/lenses/canon-50-1.2.gif",
+"img/lenses/*.1.gif"
+],
+     "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+     "uses": {
+"useOne": "Landscape",
+"useTwo": "Portrait",
+"useThree": "Sports",
+"useFour": "Wildlife",
+"useFive": "Macro",
+"useSix": "Wedding",
+"useSeven": "Travel"
+},
+     "rank": "6",
+     "bestUse": "Portrait"
+}
