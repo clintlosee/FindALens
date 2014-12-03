@@ -21,7 +21,7 @@
 
   </div>
 
-  <div class="row">
+  <div class="row lens-list">
     <div class="col-sm-6 col-md-4" ng-repeat="nikonLens in nikonLenses | filter: { bestUse: 'Sports' } | orderBy:orderProp | limitTo:numLimit">
       <div class="thumbnail">
         <a href="#/lens/{{ nikonLens.id }}"><img ng-src="{{ nikonLens.images[0] }}" class="img-responsive" alt="..."></a>
@@ -32,6 +32,7 @@
           <p>{{ nikonLens.bestUse }}</p>
           <span class="badge pull-left">{{ nikonLens.rank }}</span>
           <a href="#" class="btn btn-info" role="button">Information</a>
+          <a href="{{ nikonLens.amazonLink }}" class="btn btn-success" role="button" target="_blank">Purchase</a>
         </div>
       </div>
     </div>

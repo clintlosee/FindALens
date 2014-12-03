@@ -4,15 +4,15 @@
   "id": "ef-24-105mm-f4l-is-usm",
   "price": 1149.00,
   "aperture": "",
-  "focalRange": "24-105",
-  "filterSize": "77mm",
+  "focalRange": "",
+  "filterSize": "",
   "mount": "Canon EF",
-  "stabilization": true,
+  "stabilization": "",
   "afmotor": "",
   "zoomType": "",
-  "frontElementRotate": false,
-  "tripodMount": false,
-  "color": "Black",
+  "frontElementRotate": "",
+  "tripodMount": "",
+  "color": "",
   "manualFocus": "",
   "lensElements": {
     "numberOfLenses": "",
@@ -40,5 +40,6 @@
     "useSeven": "Travel"
   },
   "rank": "5",
-  "bestUse": "Landscape"
+  "bestUse": "Landscape",
+  "amazonLink": ""
 }

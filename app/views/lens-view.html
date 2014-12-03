@@ -1,33 +1,67 @@
-
-TBD: detail view for <span>{{ lensId }}</span>
-
-
-<div class="jumbotron">
+<div class="jumbotron lens-feature">
   <h1>{{ lens.model }}</h1>
   <img ng-src="{{ lens.images[1] }}" alt="Lens Images" />
 
 </div>
 
 <div class="container">
-  <h2>Lens Information</h2>
 
+  <div class="col-md-12" id="lens-content">
+    <h2>Lens Information</h2>
 
-  <p>{{ lens.description }}</p>
+    <p>{{ lens.description }}</p>
+    <p>Lens Price: {{ lens.price | currency }}</p>
 
-  <ul class="">
-    <li ng-repeat="lens in lens.images">
-      <img ng-src="">
-    </li>
-  </ul>
+    <div class="col-md-4">
+      <h3>Features</h3>
+      <ul class="specs">
+        <li>Lens Aperture: {{ lens.aperture }}</li>
+        <li>Lens Focal Range: {{ lens.focalRange }}</li>
+        <li>Filter Size: {{ lens.filterSize }}</li>
+        <li>Lens Mount: {{ lens.mount }}</li>
+        <li>Stabilization: {{ lens.stabilization }}</li>
+        <li>Lens Autofocus Motor Type: {{ lens.aperture }}</li>
+        <li>Lens Zoom Type: {{ lens.aperture }}</li>
+      </ul>
+    </div>
 
-  <ul class="specs">
-    <li>
-      <span>Features</span>
-      <dd></dd>
-    </li>
-  </ul>
+    <div class="col-md-4">
+      <h3>Size and Weight</h3>
+      <ul>
+        <li>Lens Size: {{ lens.sizeAndWeight.length }}</li>
+        <li>Lens Size: {{ lens.sizeAndWeight.weight }}</li>
+      </ul>
+    </div>
 
+    <div class="col-md-4">
+      <h3>Common Uses</h3>
+      <ul>
+        <li>{{ lens.uses.useOne }}</li>
+        <li>{{ lens.uses.useTwo }}</li>
+        <li>{{ lens.uses.useThree }}</li>
+        <li>{{ lens.uses.useFour }}</li>
+        <li>{{ lens.uses.useFive }}</li>
+        <li>{{ lens.uses.useSix }}</li>
+        <li>{{ lens.uses.useSeven }}</li>
+      </ul>
+    </div>
 
+    <div class="purchase col-md-12">
+
+      <a href="{{ lens.amazonLink }}" class="btn btn-success" role="button" target="_blank">Purchase from Amazon</a>
+      <a href="{{ lens.amazonLink }}" class="btn btn-success" role="button" target="_blank">Purchase from B&H</a>
+
+    </div>
+
+    <div class="col-md-12">
+      <ul class="">
+        <li class="col-md-4" ng-repeat="img in lens.images">
+          <img ng-src="{{img}}">
+        </li>
+      </ul>
+    </div>
+
+  </div>
 
 
 

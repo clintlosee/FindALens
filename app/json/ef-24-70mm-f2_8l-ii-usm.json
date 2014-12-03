@@ -4,15 +4,15 @@
   "id": "ef-24-70mm-f2_8l-ii-usm",
   "price": 2099.00,
   "aperture": "",
-  "focalRange": "24-70",
+  "focalRange": "",
   "filterSize": "",
   "mount": "Canon EF",
-  "stabilization": false,
+  "stabilization": "",
   "afmotor": "",
   "zoomType": "",
-  "frontElementRotate": false,
-  "tripodMount": false,
-  "color": "Black",
+  "frontElementRotate": "",
+  "tripodMount": "",
+  "color": "",
   "manualFocus": "",
   "lensElements": {
     "numberOfLenses": "",
@@ -40,5 +40,6 @@
     "useSeven": "Travel"
   },
   "rank": "1",
-  "bestUse": "Portrait"
+  "bestUse": "Portrait",
+  "amazonLink": ""
 }

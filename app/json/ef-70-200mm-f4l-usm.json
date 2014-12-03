@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 "brand": "Canon",
 "model": "EF 70-200mm f/4L USM",
@@ -42,3 +43,50 @@
       "rank": "10",
       "bestUse": "Wildlife"
 }
+=======
+{
+  "brand": "Canon",
+  "model": "EF 70-200mm f/4L USM",
+  "id": "ef-70-200mm-f4l-usm",
+  "price": 709.99,
+  "aperture": "",
+  "focalRange": "",
+  "filterSize": "",
+  "mount": "Canon EF",
+  "stabilization": false,
+  "afmotor": "",
+  "zoomType": "",
+  "frontElementRotate": "",
+  "tripodMount": "",
+  "color": "",
+  "manualFocus": "",
+  "lensElements": {
+    "numberOfLenses": "",
+    "numberOfGroups": "",
+    "diaphragmBlades": ""
+  },
+  "sizeAndWeight": {
+    "length": "",
+    "weight": ""
+  },
+  "announced": "",
+  "images": [
+    "http://placehold.it/350x300",
+    "img/lenses/canon-70-200-4.gif",
+    "img/lenses/*.1.gif"
+  ],
+  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+  "uses": {
+    "useOne": "Landscape",
+    "useTwo": "Portrait",
+    "useThree": "Sports",
+    "useFour": "Wildlife",
+    "useFive": "Macro",
+    "useSix": "Wedding",
+    "useSeven": "Travel"
+  },
+  "rank": "10",
+  "bestUse": "Wildlife",
+  "amazonLink": ""
+}
+>>>>>>> 520bc892e2762877002a535e06b5649723887efe

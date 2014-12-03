@@ -19,9 +19,9 @@
 
     </div>
 
-  </div>
+  </div> <!-- end row -->
 
-  <div class="row">
+  <div class="row lens-list">
     <div class="col-sm-6 col-md-4" ng-repeat="canonLens in canonLenses | filter: { bestUse: 'Landscape' } | orderBy:orderProp | limitTo:numLimit">
       <div class="thumbnail">
         <a href="#/lens/{{ canonLens.id }}"><img ng-src="{{ canonLens.images[1] }}" class="img-responsive" alt="..."></a>
@@ -32,8 +32,9 @@
           <p>{{ canonLens.bestUse }}</p>
           <span class="badge pull-left">{{ canonLens.rank }}</span>
           <a href="#" class="btn btn-info" role="button">Information</a>
+          <a href="{{ canonLens.amazonLink }}" class="btn btn-success" role="button" target="_blank">Purchase</a>
         </div>
       </div>
     </div>
-  </div>
+  </div> <!-- end row -->
 </div> <!-- end container -->

@@ -4,15 +4,15 @@
   "id": "ef-24-70mm-f4l-is-usm",
   "price": 999.99,
   "aperture": "",
-  "focalRange": "24-70",
+  "focalRange": "",
   "filterSize": "",
   "mount": "Canon EF",
   "stabilization": "",
   "afmotor": "",
   "zoomType": "",
-  "frontElementRotate": false,
-  "tripodMount": false,
-  "color": "Black",
+  "frontElementRotate": "",
+  "tripodMount": "",
+  "color": "",
   "manualFocus": "",
   "lensElements": {
     "numberOfLenses": "",
@@ -40,5 +40,6 @@
     "useSeven": "Travel"
   },
   "rank": "3",
-  "bestUse": "Travel"
+  "bestUse": "Travel",
+  "amazonLink": ""
 }
