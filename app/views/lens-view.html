@@ -1,6 +1,6 @@
 <div class="jumbotron lens-feature">
-  <h1>{{ lens.model }}</h1>
-  <img ng-src="{{ lens.images[1] }}" alt="Lens Images" />
+  <h1>{{ indLens.model }}</h1>
+  <img ng-src="{{ indLens.images[1] }}" alt="Lens Images" />
 
 </div>
 
@@ -9,53 +9,53 @@
   <div class="col-md-12" id="lens-content">
     <h2>Lens Information</h2>
 
-    <p>{{ lens.description }}</p>
-    <p>Lens Price: {{ lens.price | currency }}</p>
+    <p>{{ indLens.description }}</p>
+    <p>Lens Price: {{ indLens.price | currency }}</p>
 
     <div class="col-md-4">
       <h3>Features</h3>
       <ul class="specs">
-        <li>Lens Aperture: {{ lens.aperture }}</li>
-        <li>Lens Focal Range: {{ lens.focalRange }}</li>
-        <li>Filter Size: {{ lens.filterSize }}</li>
-        <li>Lens Mount: {{ lens.mount }}</li>
-        <li>Stabilization: {{ lens.stabilization }}</li>
-        <li>Lens Autofocus Motor Type: {{ lens.aperture }}</li>
-        <li>Lens Zoom Type: {{ lens.aperture }}</li>
+        <li>Lens Aperture: {{ indLens.aperture }}</li>
+        <li>Lens Focal Range: {{ indLens.focalRange }}</li>
+        <li>Filter Size: {{ indLens.filterSize }}</li>
+        <li>Lens Mount: {{ indLens.mount }}</li>
+        <li>Stabilization: {{ indLens.stabilization }}</li>
+        <li>Lens Autofocus Motor Type: {{ indLens.aperture }}</li>
+        <li>Lens Zoom Type: {{ indLens.aperture }}</li>
       </ul>
     </div>
 
     <div class="col-md-4">
       <h3>Size and Weight</h3>
       <ul>
-        <li>Lens Size: {{ lens.sizeAndWeight.length }}</li>
-        <li>Lens Size: {{ lens.sizeAndWeight.weight }}</li>
+        <li>Lens Size: {{ indLens.sizeAndWeight.length }}</li>
+        <li>Lens Size: {{ indLens.sizeAndWeight.weight }}</li>
       </ul>
     </div>
 
     <div class="col-md-4">
       <h3>Common Uses</h3>
       <ul>
-        <li>{{ lens.uses.useOne }}</li>
-        <li>{{ lens.uses.useTwo }}</li>
-        <li>{{ lens.uses.useThree }}</li>
-        <li>{{ lens.uses.useFour }}</li>
-        <li>{{ lens.uses.useFive }}</li>
-        <li>{{ lens.uses.useSix }}</li>
-        <li>{{ lens.uses.useSeven }}</li>
+        <li>{{ indLens.uses.useOne }}</li>
+        <li>{{ indLens.uses.useTwo }}</li>
+        <li>{{ indLens.uses.useThree }}</li>
+        <li>{{ indLens.uses.useFour }}</li>
+        <li>{{ indLens.uses.useFive }}</li>
+        <li>{{ indLens.uses.useSix }}</li>
+        <li>{{ indLens.uses.useSeven }}</li>
       </ul>
     </div>
 
     <div class="purchase col-md-12">
 
-      <a href="{{ lens.amazonLink }}" class="btn btn-success" role="button" target="_blank">Purchase from Amazon</a>
-      <a href="{{ lens.amazonLink }}" class="btn btn-success" role="button" target="_blank">Purchase from B&H</a>
+      <a href="{{ indLens.amazonLink }}" class="btn btn-success" role="button" target="_blank">Purchase from Amazon</a>
+      <a href="{{ indLens.amazonLink }}" class="btn btn-success" role="button" target="_blank">Purchase from B&H</a>
 
     </div>
 
     <div class="col-md-12">
       <ul class="">
-        <li class="col-md-4 thumbnail" ng-repeat="img in lens.images">
+        <li class="col-md-4 thumbnail" ng-repeat="img in indLens.images">
           <a href="" class=""><img ng-src="{{img}}"></a>
         </li>
       </ul>
