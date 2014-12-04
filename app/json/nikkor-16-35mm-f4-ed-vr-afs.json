@@ -26,7 +26,8 @@
      "announced": "",
      "images": [
           "img/lenses/nikon-16-35.jpg",
-           "http://placehold.it/350x300"
+           "img/lenses/nikon-16-35-b.jpg",
+       "img/lenses/nikon-16-35-c.jpg"
      ],
      "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
      "uses": {
@@ -39,5 +40,6 @@
          "useSeven": "Travel"
     },
      "rank": "2",
-     "bestUse": "Landscape"
+     "bestUse": "Landscape",
+"amazonLink": ""
 }

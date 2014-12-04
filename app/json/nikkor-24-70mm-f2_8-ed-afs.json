@@ -1,43 +1,44 @@
 {
-  "brand": "Nikon",
-  "model": "Nikkor AF-S 24-70mm f/2.8 ED",
-  "id": "nikkor-24-70mm-f2_8-ed-afs",
-  "price": 1889.95,
-  "aperture": "f/2.8",
-  "focalRange": "24-70",
-  "filterSize": "",
-  "mount": "",
-  "stabilization": false,
-  "afmotor": "",
-  "zoomType": "",
-  "frontElementRotate": "",
-  "tripodMount": false,
-  "color": "Black",
-  "manualFocus": true,
-  "lensElements": {
-    "numberOfLenses": "",
-    "numberOfGroups": "",
-    "diaphragmBlades": ""
-  },
-  "sizeAndWeight": {
-    "length": "",
-    "weight": ""
-  },
-  "announced": "",
-  "images": [
-    "http://placehold.it/350x300",
-    "http://placehold.it/350x300"
-  ],
-  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
-  "uses": {
-    "useOne": "Landscape",
-    "useTwo": "Portrait",
-    "useThree": "Sports",
-    "useFour": "Wildlife",
-    "useFive": "Macro",
-    "useSix": "Wedding",
-    "useSeven": "Travel"
-  },
-  "rank": "2",
-  "bestUse": "Portrait"
+   "brand": "Nikon",
+   "model": "Nikkor AF-S 24-70mm f/2.8 ED",
+   "id": "nikkor-24-70mm-f2_8-ed-afs",
+     "price": 1889.95,
+     "aperture": "f/2.8",
+     "focalRange": "24-70",
+     "filterSize": "",
+     "mount": "",
+     "stabilization": false,
+     "afmotor": "",
+     "zoomType": "",
+     "frontElementRotate": "",
+     "tripodMount": false,
+     "color": "Black",
+     "manualFocus": true,
+     "lensElements": {
+          "numberOfLenses": "",
+          "numberOfGroups": "",
+          "diaphragmBlades": ""
+     },
+     "sizeAndWeight": {
+          "length": "",
+          "weight": ""
+     },
+     "announced": "",
+     "images": [
+          "img/lenses/nikon-24-70-2.8.jpg",
+           "img/lenses/nikon-24-70-2.8.jpg"
+     ],
+     "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+     "uses": {
+         "useOne": "Landscape",
+         "useTwo": "Portrait",
+         "useThree": "Sports",
+         "useFour": "Wildlife",
+         "useFive": "Macro",
+         "useSix": "Wedding",
+         "useSeven": "Travel"
+    },
+     "rank": "2",
+     "bestUse": "Portrait",
+"amazonLink": ""
 }

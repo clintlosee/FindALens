@@ -1,44 +1,44 @@
 {
-  "brand": "Nikon",
-  "model": "Nikkor 18-55mm f/3.5-5.6 ED II AF-S DX",
-  "id": "nikkor-18-55mm-f3_5-5_6-ed-ii-afs-dx",
-  "price": 119.95,
-  "aperture": "f/3.5-5.6",
-  "focalRange": "18-55",
-  "filterSize": "",
-  "mount": "DX",
-  "stabilization": true,
-  "afmotor": "",
-  "zoomType": "",
-  "frontElementRotate": false,
-  "tripodMount": false,
-  "color": "Black",
-  "manualFocus": true,
-  "lensElements": {
-    "numberOfLenses": "",
-    "numberOfGroups": "",
-    "diaphragmBlades": ""
-  },
-  "sizeAndWeight": {
-    "length": "",
-    "weight": ""
-  },
-  "announced": "",
-  "images": [
-    "http://placehold.it/350x300",
-    "http://placehold.it/350x300",
-    "img/lenses/*.1.jpg"
-  ],
-  "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
-  "uses": {
-    "useOne": "Landscape",
-    "useTwo": "Portrait",
-    "useThree": "Sports",
-    "useFour": "Wildlife",
-    "useFive": "Macro",
-    "useSix": "Wedding",
-    "useSeven": "Travel"
-  },
-  "rank": "4",
-  "bestUse": "Landscape"
+    "brand": "Nikon",
+    "model": "Nikkor 18-55mm f/3.5-5.6 ED II AF-S DX",
+    "id": "nikkor-18-55mm-f3_5-5_6-ed-ii-afs-dx",
+      "price": 119.95,
+      "aperture": "f/3.5-5.6",
+      "focalRange": "18-55",
+      "filterSize": "",
+      "mount": "DX",
+      "stabilization": true,
+      "afmotor": "",
+      "zoomType": "",
+      "frontElementRotate": false,
+      "tripodMount": false,
+      "color": "Black",
+      "manualFocus": true,
+      "lensElements": {
+           "numberOfLenses": "",
+           "numberOfGroups": "",
+           "diaphragmBlades": ""
+      },
+      "sizeAndWeight": {
+           "length": "",
+           "weight": ""
+      },
+      "announced": "",
+      "images": [
+           "img/lenses/nikon-18-55.jpg",
+            "img/lenses/nikon-18-55.jpg"
+      ],
+      "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+      "uses": {
+         "useOne": "Landscape",
+         "useTwo": "Portrait",
+         "useThree": "Sports",
+         "useFour": "Wildlife",
+         "useFive": "Macro",
+         "useSix": "Wedding",
+         "useSeven": "Travel"
+     },
+      "rank": "4",
+      "bestUse": "Landscape",
+"amazonLink": ""
 }

@@ -1,0 +1,44 @@
+{
+"brand": "Nikon",
+"model": "Nikkor 20mm f/1.8G AF-S",
+"id": "nikkor-20mm-f1_8-afs",
+"price": 2.95,
+"aperture": "f/1.8",
+"focalRange": "20",
+"filterSize": "",
+"mount": "DX or FX",
+"stabilization": false,
+"afmotor": "",
+"zoomType": "",
+"frontElementRotate": "",
+"tripodMount": false,
+"color": "Black",
+"manualFocus": true,
+"lensElements": {
+  "numberOfLenses": "",
+  "numberOfGroups": "",
+  "diaphragmBlades": ""
+},
+"sizeAndWeight": {
+  "length": "",
+  "weight": ""
+},
+"announced": "",
+"images": [
+    "img/lenses/nikon-20-1.8.jpg",
+  "img/lenses/nikon-20-1.8.jpg"
+],
+"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+"uses": {
+   "useOne": "Landscape",
+   "useTwo": "Portrait",
+   "useThree": "Sports",
+   "useFour": "Wildlife",
+   "useFive": "Macro",
+   "useSix": "Wedding",
+   "useSeven": "Travel"
+  },
+"rank": "11",
+"bestUse": "Landscape",
+"amazonLink": ""
+}
