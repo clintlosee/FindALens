@@ -669,7 +669,7 @@
 	{
     "brand": "Canon",
     "model": "EF-S 17-55mm f/2.8 IS USM",
-    "id": "efs-17-55mm-f2_8l-is-usm",
+    "id": "efs-17-55mm-f2_8-is-usm",
 		"price": 879.99,
 		"aperture": "",
 		"focalRange": "",
@@ -715,7 +715,7 @@
 	{
     "brand": "Canon",
     "model": "EF 85mm f/1.8 USM",
-    "id": "ef-85mm-f1_8l-usm",
+    "id": "ef-85mm-f1_8-usm",
 		"price": 419.99,
 		"aperture": "",
 		"focalRange": "",
@@ -805,7 +805,7 @@
 	{
     "brand": "Canon",
     "model": "EF 50mm f/1.4 USM",
-    "id": "ef-50mm-f1_4l-usm",
+    "id": "ef-50mm-f1_4-usm",
 		"price": 399.99,
 		"aperture": "",
 		"focalRange": "",

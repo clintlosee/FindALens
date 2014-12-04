@@ -25,10 +25,10 @@
   },
   "announced": "",
   "images": [
-    "http://placehold.it/350x300",
-    "img/lenses/canon-24-70-2.8.gif",
-    "img/lenses/*.1.gif"
-  ],
+     "img/lenses/canon-24-70-2.8.gif",
+     "img/lenses/canon-24-70-2.8-b.jpg",
+     "img/lenses/*.1.gif"
+     ],
   "description": "The Canon EF 24-70mm f/2.8L II USM is the kind of lens that's always going to be held up to high scrutiny - it's the company's flagship standard zoom for professional photographers, and is expected to deliver top-notch results under all conditions. Happily, that's exactly what it does.",
   "uses": {
     "useOne": "Landscape",

@@ -25,10 +25,8 @@
   },
   "announced": "05-13-2014",
   "images": [
-    "http://placehold.it/350x300",
-    "img/lenses/canon-16-35-4.gif",
-    "http://placehold.it/250x300",
-    "http://placehold.it/300x300"
+       "img/lenses/canon-16-35-4.gif",
+      "img/lenses/canon-16-35-4-b.gif"
   ],
   "description": "Canon has been instrumental in offering lightweight f/4 lenses for professional users, and this new ultra-wide angle zoom L-series model is the first from the maker to include stabilization.",
   "uses": {

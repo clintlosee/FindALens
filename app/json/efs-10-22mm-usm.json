@@ -25,9 +25,9 @@
   },
   "announced": "",
   "images": [
-    "http://placehold.it/350x300",
-    "img/lenses/canon-10-22.gif",
-    "img/lenses/*.1.gif"
+   "img/lenses/canon-10-22.gif",
+   "img/lenses/canon-10-22-b.jpg",
+   "img/lenses/canon-10-22-c.jpg"
   ],
   "description": "The Canon EF-S 10-22mm f/3.5-4.5 USM, a very light and small equivalent to a 16-35mm on a 35mm camera, is well suited for landscape or indoor photography. For example, the non-rotating front element eases the use of polarizing and graduated filters, which are very popular for landscape photography. It is to be noticed that this wide angle zoom can focus at a distance down to 24 cm.",
   "uses": {

@@ -1,0 +1,45 @@
+{
+"brand": "Canon",
+"model": "EF 100mm f/2.8 USM Macro",
+"id": "ef-100mm-f2_8-usm-macro",
+     "price": 599.99,
+     "aperture": "",
+     "focalRange": "",
+     "filterSize": "",
+     "mount": "Canon EF",
+     "stabilization": "",
+     "afmotor": "",
+     "zoomType": "",
+     "frontElementRotate": "",
+     "tripodMount": "",
+     "color": "Black",
+     "manualFocus": "",
+     "lensElements": {
+          "numberOfLenses": "",
+          "numberOfGroups": "",
+          "diaphragmBlades": ""
+     },
+     "sizeAndWeight": {
+          "length": "",
+          "weight": ""
+     },
+     "announced": "",
+     "images": [
+         "img/lenses/canon-100-2.8-macro.gif",
+         "img/lenses/canon-100-2.8-macro-b.jpg",
+         "img/lenses/canon-100-2.8-macro-c.jpg"
+],
+     "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+     "uses": {
+"useOne": "Landscape",
+"useTwo": "Portrait",
+"useThree": "Sports",
+"useFour": "Wildlife",
+"useFive": "Macro",
+"useSix": "Wedding",
+"useSeven": "Travel"
+},
+     "rank": "2",
+     "bestUse": "Macro",
+"amazonLink": ""
+}

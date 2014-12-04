@@ -1,0 +1,45 @@
+{
+"brand": "Canon",
+"model": "EF 16-35mm f/2.8L II USM",
+"id": "ef-16-35mm-f2_8l-ii-usm",
+     "price": 1699.00,
+     "aperture": "",
+     "focalRange": "",
+     "filterSize": "",
+     "mount": "Canon EF",
+     "stabilization": "",
+     "afmotor": "",
+     "zoomType": "",
+     "frontElementRotate": "",
+     "tripodMount": "",
+     "color": "Black",
+     "manualFocus": "",
+     "lensElements": {
+          "numberOfLenses": "",
+          "numberOfGroups": "",
+          "diaphragmBlades": ""
+     },
+     "sizeAndWeight": {
+          "length": "",
+          "weight": ""
+     },
+     "announced": "",
+     "images": [
+         "img/lenses/canon-16-35-2.8.gif",
+         "img/lenses/canon-16-35-2.8-b.jpg",
+         "img/lenses/canon-16-35-2.8-c.jpg"
+],
+     "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
+     "uses": {
+"useOne": "Landscape",
+"useTwo": "Portrait",
+"useThree": "Sports",
+"useFour": "Wildlife",
+"useFive": "Macro",
+"useSix": "Wedding",
+"useSeven": "Travel"
+},
+     "rank": "2",
+     "bestUse": "Landscape",
+"amazonLink": ""
+}
