@@ -1,44 +1,57 @@
-# BELOW IS THE BASE README.MD FILE FROM ANGULAR-SEED FOR REFERENCE #
+# Find-A-Lens Application Details
 
-## Updated Find-A-Lens Project ##
------------------------------------------------------------------------------
+Find-A-Lens is a web application designed for photographers to find their next lens
+purchase.
 
-This application is based on AngularJS and NodeJS.  To run this application, you must install NodeJS.  After you clone the repository, you can install the project's dependencies.  To do so, run the following command:
+If you are a photographer, you know that good lenses are insanely expensive and often cost upwards of $2,000 or more.
+Photographers research lenses to no end before buying, and while there are lots of decent reviews of lenses available
+on the Internet, there really isn't anything out there to help walk you through the process of selecting a lens.
 
-```
-npm install
-```
 
-Doing so will not only install NPM development dependencies, but will also install BOWER production dependencies.  To add/remove dependencies you can modify the package.json file (development), and the bower.json file (production).
+## Project Development Instructions
+This application is based on AngularJS and NodeJS.
+To run this application, you must install NodeJS.
+`cd` into your desired directory and then `git clone` the repository.
+After you clone the repository, you can install the project's dependencies.  To do so, run the following command:
+
+     npm install
+
+Doing so will not only install [NPM](https://www.npmjs.org/) development dependencies, but will also install [Bower](http://bower.io) production dependencies.
+To add/remove dependencies you can modify the package.json file (development), and the bower.json file (production).
 
 You can run the application on your local machine by running the following command:
 
-```
-npm start
-```
+     npm start
 
------------------------------------------------------------------------------
+CSS is handled through SASS. In order to compile your SASS/SCSS files, run the following command:
 
-Based off from Angular Seed project. See Readme file at the [Angular Seed](https://github.com/angular/angular-seed) on GitHub
+     grunt
 
-## Information
+This will compile the proper CSS files for the project.
+
+***
+
+
+### Development Technologies Additional Information
 
 For more information on AngularJS please check out http://angularjs.org/
 
-[git](http://git-scm.com/)
+* [git](http://git-scm.com/)
 
-[bower](http://bower.io)
+* [bower](http://bower.io)
 
-[npm](https://www.npmjs.org/)
+* [grunt](http://gruntjs.com/)
 
-[node](http://nodejs.org)
+* [npm](https://www.npmjs.org/)
 
-[protractor](https://github.com/angular/protractor)
+* [node](http://nodejs.org)
 
-[jasmine](http://jasmine.github.io)
+* [protractor](https://github.com/angular/protractor)
 
-[karma](http://karma-runner.github.io)
+* [jasmine](http://jasmine.github.io)
 
-[travis](https://travis-ci.org/)
+* [karma](http://karma-runner.github.io)
 
-[http-server](https://github.com/nodeapps/http-server)
+* [travis](https://travis-ci.org/)
+
+* [http-server](https://github.com/nodeapps/http-server)
