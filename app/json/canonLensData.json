@@ -26,9 +26,8 @@
     },
     "announced": "05-13-2014",
     "images": [
-    	"http://placehold.it/350x300",
-      "img/lenses/canon-16-35-4.gif",
-    	"img/lenses/*.1.gif"
+    	"img/lenses/canon-16-35-4.gif",
+        "img/lenses/canon-16-35-4-b.gif"
     ],
     "description": "Canon has been instrumental in offering lightweight f/4 lenses for professional users, and this new ultra-wide angle zoom L-series model is the first from the maker to include stabilization.",
     "uses": {
@@ -71,9 +70,9 @@
     },
     "announced": "",
     "images": [
-      "http://placehold.it/350x300",
       "img/lenses/canon-10-22.gif",
-      "img/lenses/*.1.gif"
+      "img/lenses/canon-10-22-b.jpg",
+      "img/lenses/canon-10-22-c.jpg"
     ],
     "description": "The Canon EF-S 10-22mm f/3.5-4.5 USM, a very light and small equivalent to a 16-35mm on a 35mm camera, is well suited for landscape or indoor photography. For example, the non-rotating front element eases the use of polarizing and graduated filters, which are very popular for landscape photography. It is to be noticed that this wide angle zoom can focus at a distance down to 24 cm.",
     "uses": {
@@ -116,9 +115,10 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-24-105.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-24-105.gif",
+              "img/lenses/canon-24-105-b.jpg",
+              "img/lenses/canon-24-105-c.jpg",
+              "img/lenses/canon-24-105-b.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -161,9 +161,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-24-70-4.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-24-70-4.gif",
+              "img/lenses/canon-24-70-4-b.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -206,8 +205,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
       "img/lenses/canon-24-70-2.8.gif",
+      "img/lenses/canon-24-70-2.8-b.jpg",
       "img/lenses/*.1.gif"
     ],
 		"description": "The Canon EF 24-70mm f/2.8L II USM is the kind of lens that's always going to be held up to high scrutiny - it's the company's flagship standard zoom for professional photographers, and is expected to deliver top-notch results under all conditions. Happily, that's exactly what it does.",
@@ -251,9 +250,9 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-17-40.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-17-40.gif",
+              "img/lenses/canon-17-40-b.jpg",
+              "img/lenses/canon-17-40-c.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -296,9 +295,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-70-300-L.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-70-300-L.gif",
+              "img/lenses/canon-70-300-L-b.gif"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -341,9 +339,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
       "img/lenses/canon-70-200-4-is.gif",
-      "img/lenses/*.1.gif"
+      "img/lenses/canon-70-200-4-is.gif"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -386,9 +383,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-70-200-4.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-70-200-4.gif",
+              "img/lenses/canon-70-200-4.gif"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -431,9 +427,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-24-1.4.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-24-1.4.gif",
+              "img/lenses/canon-24-1.4-b.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -476,9 +471,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-70-200-2.8-is.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-70-200-2.8-is.gif",
+              "img/lenses/canon-70-200-2.8-is.gif"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -521,9 +515,9 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-85-1.2.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-85-1.2.gif",
+              "img/lenses/canon-85-1.2-b.jpg",
+              "img/lenses/canon-85-1.2-c.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -566,9 +560,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
       "img/lenses/canon-100-2.8L-macro.gif",
-      "img/lenses/*.1.gif"
+      "img/lenses/canon-100-2.8L-macro-b.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -611,9 +604,9 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-50-1.2.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-50-1.2.gif",
+              "img/lenses/canon-50-1.2-b.jpg",
+              "img/lenses/canon-50-1.2-c.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -656,9 +649,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-300-2.8-is.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-300-2.8-is.gif",
+              "img/lenses/canon-300-2.8-is-b.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -701,9 +693,10 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-17-55-2.8.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-17-55-2.8.gif",
+              "img/lenses/canon-17-55-2.8-b.jpg",
+              "img/lenses/canon-17-55-2.8-c.jpg",
+              "img/lenses/canon-17-55-2.8-d.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -746,9 +739,9 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-85-1.8.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-85-1.8.gif",
+              "img/lenses/canon-85-1.8-b.jpg",
+              "img/lenses/canon-85-1.8-c.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -791,9 +784,9 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-100-2.8-macro.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-100-2.8-macro.gif",
+              "img/lenses/canon-100-2.8-macro-b.jpg",
+              "img/lenses/canon-100-2.8-macro-c.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -836,9 +829,9 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-50-1.4.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-50-1.4.gif",
+              "img/lenses/canon-50-1.4-b.jpg",
+              "img/lenses/canon-50-1.4-c.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -881,9 +874,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-600-4-is.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-600-4-is.gif",
+              "img/lenses/canon-600-4-is-b.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -926,9 +918,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-500-4-is.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-500-4-is.gif",
+              "img/lenses/canon-500-4-is-b.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -971,9 +962,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-200-400.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-200-400.gif",
+              "img/lenses/canon-200-400-b.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -1016,9 +1006,8 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-400-2.8-is.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-400-2.8-is.gif",
+              "img/lenses/canon-400-2.8-is-b.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -1061,9 +1050,9 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-100-400-4.5-5.6-is.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-100-400-4.5-5.6-is.gif",
+              "img/lenses/canon-100-400-4.5-5.6-is-b.jpg",
+              "img/lenses/canon-100-400-4.5-5.6-is-c.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -1106,9 +1095,9 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-400-5.6.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-400-5.6.gif",
+              "img/lenses/canon-400-5.6-b.jpg",
+              "img/lenses/canon-400-5.6-c.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
@@ -1151,9 +1140,9 @@
 		},
 		"announced": "",
 		"images": [
-      "http://placehold.it/350x300",
-      "img/lenses/canon-16-35-2.8.gif",
-      "img/lenses/*.1.gif"
+              "img/lenses/canon-16-35-2.8.gif",
+              "img/lenses/canon-16-35-2.8-b.jpg",
+              "img/lenses/canon-16-35-2.8-c.jpg"
     ],
 		"description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.",
 		"uses": {
