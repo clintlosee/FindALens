@@ -53,18 +53,14 @@
 
     </div>
 
-    <div class="col-md-12">
-      <ul class="">
-        <li class="col-md-4 thumbnail" ng-repeat="img in indLens.images">
-          <a href="" class=""><img ng-src="{{img}}"></a>
-        </li>
-      </ul>
+    <div class="col-md-12 lens-images">
+
+      <a img-pop class="col-md-3 image-link" href="{{img}}" title="{{indLens.model}}" ng-repeat="img in indLens.images">
+           <img class="col-md-12" ng-src="{{img}}" />
+      </a>
+
     </div>
 
   </div>
-
-
-
-
 
 </div>
