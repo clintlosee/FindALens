@@ -18,10 +18,25 @@ After you clone the repository, you can install the project's dependencies.  To 
 
 Doing so will not only install [NPM](https://www.npmjs.org/) development dependencies, but will also install [Bower](http://bower.io) production dependencies.
 To add/remove dependencies you can modify the package.json file (development), and the bower.json file (production).
+***
 
-You can run the application on your local machine by running the following command:
+### Starting the local server
 
-     npm start
+You can run the application on your local machine by running the following command on Windows:
+
+     server.bat
+
+Or if you are on a Mac, you can start the local server by running the command:
+
+     server.sh
+
+___Note:___
+When stopping the server on a Windows machine, you will need to `cd ..` back to the main directory in order to execute any commands.
+This happens because when stopping the server with `CTRL +c` it will leave you inside the _app/_ directory.
+If you are using a Mac, you will not need to do this.
+
+***
+### Compiling the SASS and other Scripts
 
 CSS is handled through SASS. In order to compile your SASS/SCSS files, run the following command:
 
