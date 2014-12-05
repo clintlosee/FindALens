@@ -6,8 +6,8 @@ FindALens.controller('HomeController', function($scope) {
   $scope.message = 'Choose your Camera';
 });
 
-FindALens.controller('LensController', ['$scope', '$http', '$routeParams',
-  function($scope, $http, $routeParams) {
+FindALens.controller('LensController', ['$scope', 'CanonLens', 'NikonLens', '$routeParams',
+  function($scope, CanonLens, NikonLens, $routeParams) {
     $scope.message = 'This is using the lens Controller';
     $scope.landscapeMsg = 'Landscape Lenses';
     $scope.portraitMsg = 'Portrait Lenses';
@@ -16,13 +16,8 @@ FindALens.controller('LensController', ['$scope', '$http', '$routeParams',
     $scope.macroMsg = 'Macro Lenses';
     $scope.travelMsg = 'Travel Lenses';
 
-    $http.get('json/canonLensData.json').success(function(data) {
-  		$scope.canonLenses = data;
-  	});
-
-    $http.get('json/nikonLensData.json').success(function(data) {
-      $scope.nikonLenses = data;
-    });
+     $scope.canonLenses = CanonLens.query();
+     $scope.nikonLenses = NikonLens.query();
 
     $scope.orderProp = 'rank';
     $scope.numLimit = 6;
@@ -30,15 +25,11 @@ FindALens.controller('LensController', ['$scope', '$http', '$routeParams',
     $scope.lensId = $routeParams.lensId;
 }]);
 
-FindALens.controller('LensViewController', ['$scope', '$http', '$routeParams',
-  function($scope, $http, $routeParams) {
+FindALens.controller('LensViewController', ['$scope', 'CanonLens', '$routeParams',
+  function($scope, CanonLens, $routeParams) {
     $scope.lensId = $routeParams.lensId;
 
-
-    $http.get('json/' + $routeParams.lensId + '.json').success(function(data) {
-      $scope.lens = data;
-    });
-
+    $scope.indLens = CanonLens.get({lensId: $routeParams.lensId});
 
 }]);
 

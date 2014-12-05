@@ -25,7 +25,10 @@ html, body {
 .footer, .push {
   height: 4em; }
 
-	                        /********* Buttons ********
+.ind-lens {
+  height: 675px; }
+
+/********* Buttons ********
    see http://sixrevisions.com/css/ghost-buttons/ for more details *******
 
 .ghost-button {
@@ -90,12 +93,10 @@ a.ghost-button:hover, a.ghost-button:active {
 #lens-content ul li {
   list-style-type: none; }
 
-.ind-lens {
-     height:670px;
-}
-
 /****** Footer ******/
 footer {
   background-color: #222;
   padding: 16px 0;
   margin: 50px 0 0; }
+
+/*# sourceMappingURL=app.css.map */
