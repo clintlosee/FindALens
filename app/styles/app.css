@@ -28,6 +28,9 @@ html, body {
 .ind-lens {
   height: 675px; }
 
+.lens-images {
+  margin: 20px auto; }
+
 /********* Buttons ********
    see http://sixrevisions.com/css/ghost-buttons/ for more details *******
 
