@@ -10,32 +10,53 @@
     <h2>Lens Information</h2>
 
     <p>{{ indLens.description }}</p>
-    <p>Lens Price: {{ indLens.price | currency }}</p>
+    <h4 class="text-danger">Lens Price:<strong> {{ indLens.price | currency }}</strong></h4>
+    <h4 class="text-success">{{ indLens.bestUse }} Lens Rank: {{ indLens.rank }}</h4>
 
     <div class="col-md-4">
       <h3>Features</h3>
-      <ul class="specs">
+      <ul class="list-unstyled">
         <li>Lens Aperture: {{ indLens.aperture }}</li>
         <li>Lens Focal Range: {{ indLens.focalRange }}</li>
         <li>Filter Size: {{ indLens.filterSize }}</li>
         <li>Lens Mount: {{ indLens.mount }}</li>
-        <li>Stabilization: {{ indLens.stabilization }}</li>
-        <li>Lens Autofocus Motor Type: {{ indLens.aperture }}</li>
-        <li>Lens Zoom Type: {{ indLens.aperture }}</li>
+        <li>Stabilization: {{ indLens.stabilization | yesNo }}</li>
+        <li>Lens Autofocus Motor Type: {{ indLens.afmotor }}</li>
+        <li>Lens Zoom Type: {{ indLens.zoomType }}</li>
+        <li>Rotating Front Element: {{ indLens.frontElementRotate | yesNo }}</li>
+        <li>Tripod Mount: {{ indLens.tripodMount | yesNo }}</li>
+        <li>Manual Focus: {{ indLens.manualFocus | yesNo }}</li>
+        <li>Lens Elements:
+             <ul>
+                  <li>Number of Lenses: {{ indLens.lensElements.numberOfLenses }}</li>
+                  <li>Number of Groups: {{ indLens.lensElements.numberOfGroups }}</li>
+                  <li>Number of Diaphragm Blades: {{ indLens.lensElements.diaphragmBlades }}</li>
+             </ul>
+        </li>
       </ul>
     </div>
 
     <div class="col-md-4">
       <h3>Size and Weight</h3>
-      <ul>
+      <ul class="list-unstyled">
         <li>Lens Size: {{ indLens.sizeAndWeight.length }}</li>
-        <li>Lens Size: {{ indLens.sizeAndWeight.weight }}</li>
+        <li>Lens Weight: {{ indLens.sizeAndWeight.weight }}</li>
+      </ul>
+
+      <h3>Date Announced</h3>
+      <ul class="list-unstyled">
+           <li>{{ indLens.announced}}</li>
       </ul>
     </div>
 
     <div class="col-md-4">
+      <h3>Best Use</h3>
+      <ul class="list-unstyled">
+           <li>{{ indLens.bestUse }}</li>
+      </ul>
+
       <h3>Common Uses</h3>
-      <ul>
+      <ul class="list-unstyled">
         <li>{{ indLens.uses.useOne }}</li>
         <li>{{ indLens.uses.useTwo }}</li>
         <li>{{ indLens.uses.useThree }}</li>

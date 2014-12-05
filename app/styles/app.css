@@ -93,8 +93,8 @@ a.ghost-button:hover, a.ghost-button:active {
   color: #333;
   padding: 10px; }
 
-#lens-content ul li {
-  list-style-type: none; }
+#lens-content ul {
+  text-align: left; }
 
 /****** Footer ******/
 footer {
