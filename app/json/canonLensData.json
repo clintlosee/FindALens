@@ -396,7 +396,7 @@
       "useSix": "Wedding",
       "useSeven": "Travel"
     },
-		"rank": "10",
+		"rank": "5",
 		"bestUse": "Wildlife",
     "amazonLink": ""
     },
@@ -887,7 +887,7 @@
       "useSix": "Wedding",
       "useSeven": "Travel"
     },
-		"rank": "1",
+		"rank": "2",
 		"bestUse": "Wildlife",
     "amazonLink": ""
     },
@@ -1050,7 +1050,7 @@
 		},
 		"announced": "",
 		"images": [
-              "img/lenses/canon-100-400-4.5-5.6-is.gif",
+              "img/lenses/canon-100-400-4.5-5.6-is.jpg",
               "img/lenses/canon-100-400-4.5-5.6-is-b.jpg",
               "img/lenses/canon-100-400-4.5-5.6-is-c.jpg"
     ],

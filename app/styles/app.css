@@ -90,9 +90,9 @@ a.ghost-button:hover, a.ghost-button:active {
 #lens-content ul li {
   list-style-type: none; }
 
-/*.ind-lens {
-     height:750px;
-}*/
+.ind-lens {
+     /*height:auto;*/
+}
 
 /****** Footer ******/
 footer {
