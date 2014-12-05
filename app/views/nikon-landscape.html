@@ -23,7 +23,7 @@
 
   <div class="row lens-list">
     <div class="col-sm-6 col-md-4" ng-repeat="nikonLens in nikonLenses | filter: { bestUse: 'Landscape' } | orderBy:orderProp | limitTo:numLimit">
-      <div class="thumbnail">
+      <div class="thumbnail ind-lens">
         <a href="#/lens/{{ nikonLens.id }}"><img ng-src="{{ nikonLens.images[0] }}" class="img-responsive" alt="..."></a>
         <div class="caption">
           <h3>{{ nikonLens.model }}</h3>
