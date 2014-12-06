@@ -30,6 +30,10 @@ Or if you are on a Mac, you can start the local server by running the command:
 
      server.sh
 
+If you have issues on a Mac running `server.sh` try the following:
+
+    ./server.sh
+
 ___Note:___
 When stopping the server on a Windows machine, you will need to `cd ..` back to the main directory in order to execute any commands.
 This happens because when stopping the server with `CTRL +c` it will leave you inside the _app/_ directory.
