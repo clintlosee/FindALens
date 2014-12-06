@@ -8,10 +8,16 @@ a {
 /******* Main Content *******/
 body#background {
 	background: url('../img/background/bg1.jpg') no-repeat center center fixed;
+	top:0;
+	right:0;
 	background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-webkit-background-size: cover;
+	min-width:100%;
+	min-height:100%;
+	width:auto;
+	height:auto;
 }
 
 * {
@@ -31,7 +37,7 @@ html, body {
 }
 
 .ind-lens {
-	height:675px;
+	height:730px;
 }
 .lens-images {
 	margin:20px auto;
