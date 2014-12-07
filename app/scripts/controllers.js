@@ -4,6 +4,8 @@ FindALens.controller('CanonController', function($scope) {
 
 FindALens.controller('HomeController', function($scope) {
   $scope.message = 'Choose your Camera';
+
+
 });
 
 FindALens.controller('LensController', ['$scope', 'CanonLens', 'NikonLens', '$routeParams',
@@ -35,6 +37,15 @@ FindALens.controller('LensViewController', ['$scope', 'CanonLens', '$routeParams
 
 FindALens.controller('MainController', function($scope) {
   $scope.message = 'Main Controller';
+});
+
+FindALens.controller('MainCtrl', function($scope, ngDialog) {
+
+  // Modal login function
+  $scope.clickToOpen = function () {
+    ngDialog.open({ template: 'views/login.html' });
+  };
+
 });
 
 FindALens.controller('NikonController', function($scope) {
