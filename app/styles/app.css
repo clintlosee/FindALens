@@ -2,6 +2,9 @@
 a {
   color: #fff; }
 
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, x-ng-cloak {
+  display: none; }
+
 /******* Main Content *******/
 body#background {
   background: url("../img/background/bg1.jpg") no-repeat fixed;
@@ -9,6 +12,13 @@ body#background {
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover; }
+
+.jumbotron {
+  background-color: #444;
+  opacity: 0.9; }
+
+.jumbotron h1 {
+  color: #fff; }
 
 * {
   margin: 0; }
@@ -27,8 +37,15 @@ html, body {
   height: 4em; }
 
 #content {
-  padding-top: 70px;
+  padding-top: 50px;
   padding-bottom: 20px; }
+
+#info {
+  font-size: 1.5em;
+  cursor: pointer; }
+
+#info:hover {
+  color: #ff4400; }
 
 	                        /********* Buttons ********
    see http://sixrevisions.com/css/ghost-buttons/ for more details *******
@@ -70,7 +87,8 @@ a.ghost-button:hover, a.ghost-button:active {
   margin: 50px 0; }
 
 .lens-list {
-  padding-top: 20px; }
+  padding-top: 20px;
+  text-shadow: none; }
 
 .lens-feature {
   margin-top: -20px;
@@ -82,21 +100,26 @@ a.ghost-button:hover, a.ghost-button:active {
 #lens-content {
   background-color: #fefefe;
   color: #333;
-  padding: 10px; }
+  padding: 10px;
+  text-shadow: none; }
 
 #lens-content ul {
   text-align: left; }
 
 .ind-lens {
-  height: 700px; }
+  height: 720px; }
 
 .lens-images {
   margin: 20px auto; }
 
+.badge {
+  font-size: 1.5em; }
+
 /* Login Modal */
 .ngdialog-message {
   text-transform: uppercase;
-  padding: 10px 0; }
+  padding: 10px 0;
+  text-shadow: none; }
 
 .loginInput {
   padding: 10px; }

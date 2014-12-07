@@ -3,9 +3,7 @@ FindALens.controller('CanonController', function($scope) {
 });
 
 FindALens.controller('HomeController', function($scope) {
-  $scope.message = 'Choose your Camera';
-
-
+  $scope.message = 'Welcome to Find-A-Lens';
 });
 
 FindALens.controller('LensController', ['$scope', 'CanonLens', 'NikonLens', '$routeParams',

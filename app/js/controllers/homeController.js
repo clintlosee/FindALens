@@ -1,5 +1,3 @@
 FindALens.controller('HomeController', function($scope) {
-  $scope.message = 'Choose your Camera';
-
-
+  $scope.message = 'Welcome to Find-A-Lens';
 });
