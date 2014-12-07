@@ -26,11 +26,9 @@ html, body {
 .footer, .push {
   height: 4em; }
 
-.ind-lens {
-  height: 730px; }
-
-.lens-images {
-  margin: 20px auto; }
+#content {
+  padding-top: 70px;
+  padding-bottom: 20px; }
 
 	                        /********* Buttons ********
    see http://sixrevisions.com/css/ghost-buttons/ for more details *******
@@ -54,8 +52,9 @@ a.ghost-button {
   display: inline-block;
   width: 200px;
   padding: 8px;
+  background-color: #222;
   color: #fff !important;
-  border: 1px solid #fff;
+  border: 2px solid #fff;
   text-align: center;
   outline: none;
   text-decoration: none;
@@ -66,18 +65,9 @@ a.ghost-button:hover, a.ghost-button:active {
   color: #000 !important;
   transition: background-color 0.3s ease-in, color 0.3s ease-in; }
 
-#content {
-  padding-top: 70px; }
-
 #canon, #nikon {
   height: 200px;
   margin: 50px 0; }
-
-#canon a {
-  color: #ff4400; }
-
-#nikon a {
-  color: red; }
 
 .lens-list {
   padding-top: 20px; }
@@ -96,6 +86,12 @@ a.ghost-button:hover, a.ghost-button:active {
 
 #lens-content ul {
   text-align: left; }
+
+.ind-lens {
+  height: 700px; }
+
+.lens-images {
+  margin: 20px auto; }
 
 /****** Footer ******/
 footer {
