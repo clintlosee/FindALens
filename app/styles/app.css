@@ -46,12 +46,13 @@ html, body {
 
 #info {
   font-size: 1.5em;
-  cursor: pointer; }
+  cursor: pointer;
+  margin: 10px; }
 
 #info:hover {
   color: #ff4400; }
 
-	                        /********* Buttons ********
+/********* Buttons ********
    see http://sixrevisions.com/css/ghost-buttons/ for more details *******
 
 .ghost-button {
@@ -97,6 +98,7 @@ a.ghost-button:hover, a.ghost-button:active {
   height: 150px;
   margin: 50px 0; }
 
+/******** Lens list ***********/
 .lens-list {
   padding-top: 20px;
   text-shadow: none; }
@@ -118,7 +120,7 @@ a.ghost-button:hover, a.ghost-button:active {
   text-align: left; }
 
 .ind-lens {
-  height: 730px; }
+  height: 750px; }
 
 .lens-images {
   margin: 20px auto; }
@@ -144,3 +146,5 @@ footer {
   background-color: #222;
   padding: 16px 0;
   margin: 50px 0 0; }
+
+/*# sourceMappingURL=app.css.map */
