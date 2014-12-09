@@ -5,17 +5,12 @@ FindALens.directive('imgPop', function() {
                element.magnificPopup({
                     type:'image',
                     zoom: {
-                        enabled: true, // By default it's false, so don't forget to enable it
+                        enabled: true, // By default it's false
 
-                        duration: 300, // duration of the effect, in milliseconds
-                        easing: 'ease-in-out', // CSS transition easing function
-
-                        // The "opener" function should return the element from which popup will be zoomed in
-                        // and to which popup will be scaled down
-                        // By defailt it looks for an image tag:
+                        duration: 300, // duration of the effect
+                        easing: 'ease-in-out',
                         opener: function(openerElement) {
-                          // openerElement is the element on which popup was initialized, in this case its <a> tag
-                          // you don't need to add "opener" option if this code matches your needs, it's defailt one.
+                          // openerElement is the element on which popup was initialized, in this case its <a> 
                           return openerElement.is('img') ? openerElement : openerElement.find('img');
                         }
                       }
