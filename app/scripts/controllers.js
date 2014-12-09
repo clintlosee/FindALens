@@ -2,8 +2,12 @@ FindALens.controller('CanonController', function($scope) {
   $scope.message = 'This is the Canon Controller';
 });
 
-FindALens.controller('HomeController', function($scope) {
+FindALens.controller('HomeController', function($scope, CanonLens, NikonLens) {
   $scope.message = 'Welcome to Find-A-Lens';
+
+  $scope.canonLenses = CanonLens.query();
+  $scope.nikonLenses = NikonLens.query();
+
 });
 
 FindALens.controller('LensController', ['$scope', 'CanonLens', 'NikonLens', '$routeParams',

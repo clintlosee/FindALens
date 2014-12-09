@@ -2,6 +2,10 @@
 a {
   color: #fff; }
 
+input {
+  color: #666;
+  text-transform: uppercase; }
+
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, x-ng-cloak {
   display: none; }
 
@@ -82,6 +86,13 @@ a.ghost-button:hover, a.ghost-button:active {
   color: #000 !important;
   transition: background-color 0.3s ease-in, color 0.3s ease-in; }
 
+.home-input {
+  margin: 10px inherit;
+  height: 50px; }
+
+.cameraLogo {
+  margin: 50px 0; }
+
 #canon, #nikon, #sony, #olympus {
   height: 150px;
   margin: 50px 0; }
@@ -107,7 +118,7 @@ a.ghost-button:hover, a.ghost-button:active {
   text-align: left; }
 
 .ind-lens {
-  height: 720px; }
+  height: 730px; }
 
 .lens-images {
   margin: 20px auto; }
