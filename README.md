@@ -22,7 +22,7 @@ To add/remove dependencies you can modify the package.json file (development), a
 
 ### Starting the local server
 
-You can run the application on your local machine by running the following command on Windows:
+There are a couple different options to start a local server. You can run the application on your local machine by running the following command on Windows:
 
      server.bat
 
@@ -34,10 +34,18 @@ If you have issues on a Mac running `server.sh` try the following:
 
     ./server.sh
 
+After starting the local server, navigate your web browser to http://localhost:8000.
+
 ___Note:___
-When stopping the server on a Windows machine, you will need to `cd ..` back to the main directory in order to execute any commands.
-This happens because when stopping the server with `CTRL +c` it will leave you inside the _app/_ directory.
+_When stopping the local server on a Windows machine, you will need to `cd ..` back to the main directory in order to execute any commands.
+This happens because when stopping the server with `CTRL +c` it will leave you inside the **app/** directory.
 If you are using a Mac, you will not need to do this.
+
+Alternatively you can run a basic local server by running the following command:
+
+    npm start
+
+After starting this local server, navigate your web browser to http://localhost:8000/app.
 
 ***
 ### Compiling the SASS and other Scripts
