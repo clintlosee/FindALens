@@ -114,8 +114,19 @@ a.ghost-button:hover, a.ghost-button:active {
 
 #canon, #nikon, #sony, #olympus {
 //	@include vertical-align;
-	height:150px; // Temporary for collapsing divs
+	height:100px; // Temporary for collapsing divs
 	margin:50px 0;
+}
+#sony {
+	margin-bottom:150px;
+}
+
+@media (min-width: 768px) {
+	#canon, #nikon, #sony, #olympus {
+		//	@include vertical-align;
+		height:150px; // Temporary for collapsing divs
+		margin:50px 0;
+	}
 }
 
 /******** Lens list ***********/
