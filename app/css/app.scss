@@ -4,6 +4,10 @@
 a {
 	color:#fff;
 }
+input {
+	color:#666;
+	text-transform:uppercase;
+}
 
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, x-ng-cloak {
 	display:none;
@@ -52,6 +56,7 @@ html, body {
 #info {
 	font-size:1.5em;
 	cursor:pointer;
+	margin:10px;
 }
 #info:hover {
 	color:#ff4400;
@@ -98,16 +103,33 @@ a.ghost-button:hover, a.ghost-button:active {
 }
 
 
+.home-input {
+	margin:10px inherit;
+	height:50px;
+}
 
-
-
-
-#canon, #nikon, #sony, #olympus {
-//	@include vertical-align;
-	height:150px; // Temporary for collapsing divs
+.cameraLogo {
 	margin:50px 0;
 }
 
+#canon, #nikon, #sony, #olympus {
+//	@include vertical-align;
+	height:100px; // Temporary for collapsing divs
+	margin:50px 0;
+}
+#sony {
+	margin-bottom:150px;
+}
+
+@media (min-width: 768px) {
+	#canon, #nikon, #sony, #olympus {
+		//	@include vertical-align;
+		height:150px; // Temporary for collapsing divs
+		margin:50px 0;
+	}
+}
+
+/******** Lens list ***********/
 .lens-list {
 	padding-top:20px;
 	text-shadow: none;
@@ -132,7 +154,7 @@ a.ghost-button:hover, a.ghost-button:active {
 }
 
 .ind-lens {
-	height:720px;
+	height:750px;
 }
 .lens-images {
 	margin:20px auto;

@@ -2,6 +2,10 @@
 a {
   color: #fff; }
 
+input {
+  color: #666;
+  text-transform: uppercase; }
+
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, x-ng-cloak {
   display: none; }
 
@@ -42,12 +46,13 @@ html, body {
 
 #info {
   font-size: 1.5em;
-  cursor: pointer; }
+  cursor: pointer;
+  margin: 10px; }
 
 #info:hover {
   color: #ff4400; }
 
-	                        /********* Buttons ********
+/********* Buttons ********
    see http://sixrevisions.com/css/ghost-buttons/ for more details *******
 
 .ghost-button {
@@ -82,10 +87,25 @@ a.ghost-button:hover, a.ghost-button:active {
   color: #000 !important;
   transition: background-color 0.3s ease-in, color 0.3s ease-in; }
 
-#canon, #nikon, #sony, #olympus {
-  height: 150px;
+.home-input {
+  margin: 10px inherit;
+  height: 50px; }
+
+.cameraLogo {
   margin: 50px 0; }
 
+#canon, #nikon, #sony, #olympus {
+  height: 100px;
+  margin: 50px 0; }
+
+#sony {
+  margin-bottom: 150px; }
+
+@media (min-width: 768px) {
+  #canon, #nikon, #sony, #olympus {
+    height: 150px;
+    margin: 50px 0; } }
+/******** Lens list ***********/
 .lens-list {
   padding-top: 20px;
   text-shadow: none; }
@@ -107,7 +127,7 @@ a.ghost-button:hover, a.ghost-button:active {
   text-align: left; }
 
 .ind-lens {
-  height: 720px; }
+  height: 750px; }
 
 .lens-images {
   margin: 20px auto; }
@@ -133,3 +153,5 @@ footer {
   background-color: #222;
   padding: 16px 0;
   margin: 50px 0 0; }
+
+/*# sourceMappingURL=app.css.map */
