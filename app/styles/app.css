@@ -1,29 +1,47 @@
 /* app css stylesheet */
-a {
+/************ Cover Template Base Styles *************/
+/*
+* Globals
+*/
+/* Links */
+a,
+a:focus,
+a:hover {
   color: #fff; }
 
-input {
-  color: #666;
-  text-transform: uppercase; }
+/* Custom default button */
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color: #333;
+  text-shadow: none;
+  /* Prevent inheritence from `body` */
+  background-color: #fff;
+  border: 1px solid #fff; }
 
-[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, x-ng-cloak {
-  display: none; }
+/*
+* Base structure
+*/
+html,
+body {
+  height: 100%;
+  background-color: #efefef; }
 
-/******* Main Content *******/
-body#background {
-  background: url("../img/background/bg1.jpg") no-repeat fixed;
-  background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-background-size: cover; }
+body {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5); }
 
+/********** Header **********/
 .jumbotron {
-  background-color: #444;
+  padding-top: 50px;
+  background-color: #efefef;
   opacity: 0.9; }
 
-.jumbotron h1 {
-  color: #fff; }
+.jumbotron h1, .jumbotron h2 {
+  color: #222; }
 
+/******* Main Content *******/
 * {
   margin: 0; }
 
@@ -44,6 +62,9 @@ html, body {
   padding-top: 50px;
   padding-bottom: 20px; }
 
+#home-content h1 a {
+  font-size: 2em; }
+
 #info {
   font-size: 1.5em;
   cursor: pointer;
@@ -52,7 +73,57 @@ html, body {
 #info:hover {
   color: #ff4400; }
 
-/********* Buttons ********
+.home-input {
+  margin: 10px inherit;
+  height: 50px; }
+
+.cameraLogo {
+  margin: 50px 0; }
+
+.camera-model {
+  height: 200px;
+  margin: 0;
+  border: 1px solid #333;
+  background-color: #efefef; }
+
+.camera-model h1 a {
+  padding: 50px;
+  margin: -10px 0; }
+
+.camera-model h1 a:hover {
+  color: #ff4400;
+  text-decoration: none; }
+
+/********* Footer **********/
+footer {
+  background-color: #222;
+  padding: 16px 0;
+  margin: 50px 0 0;
+  color: #999;
+  /* IE8 proofing */
+  color: rgba(255, 255, 255, 0.5); }
+
+@media (min-width: 767px) {
+  body {
+    margin-top: 40px; }
+
+  .navbar {
+    padding: 20px 0;
+    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    transition: background .5s ease-in-out,padding .5s ease-in-out; }
+
+  .top-nav-collapse {
+    padding: 0; } }
+/*****************************************************/
+input {
+  color: #666;
+  text-transform: uppercase; }
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, x-ng-cloak {
+  display: none; }
+
+	                        /********* Buttons ********
    see http://sixrevisions.com/css/ghost-buttons/ for more details *******
 
 .ghost-button {
@@ -87,24 +158,6 @@ a.ghost-button:hover, a.ghost-button:active {
   color: #000 !important;
   transition: background-color 0.3s ease-in, color 0.3s ease-in; }
 
-.home-input {
-  margin: 10px inherit;
-  height: 50px; }
-
-.cameraLogo {
-  margin: 50px 0; }
-
-#canon, #nikon, #sony, #olympus {
-  height: 100px;
-  margin: 50px 0; }
-
-#sony {
-  margin-bottom: 150px; }
-
-@media (min-width: 768px) {
-  #canon, #nikon, #sony, #olympus {
-    height: 150px;
-    margin: 50px 0; } }
 /******** Lens list ***********/
 .lens-list {
   padding-top: 20px;
@@ -149,9 +202,3 @@ a.ghost-button:hover, a.ghost-button:active {
   padding: 0; }
 
 /****** Footer ******/
-footer {
-  background-color: #222;
-  padding: 16px 0;
-  margin: 50px 0 0; }
-
-/*# sourceMappingURL=app.css.map */

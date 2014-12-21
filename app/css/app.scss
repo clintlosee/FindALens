@@ -1,36 +1,61 @@
 /* app css stylesheet */
 @import 'mixins';
 
-a {
-	color:#fff;
-}
-input {
-	color:#666;
-	text-transform:uppercase;
+/************ Cover Template Base Styles *************/
+/*
+* Globals
+*/
+
+/* Links */
+a,
+a:focus,
+a:hover {
+	color: #fff;
 }
 
-[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, x-ng-cloak {
-	display:none;
+/* Custom default button */
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+	color: #333;
+	text-shadow: none; /* Prevent inheritence from `body` */
+	background-color: #fff;
+	border: 1px solid #fff;
 }
 
-/******* Main Content *******/
-body#background {
-	background: url('../img/background/bg1.jpg') no-repeat fixed;
-	background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-webkit-background-size: cover;
+
+/*
+* Base structure
+*/
+
+html,
+body {
+	height: 100%;
+	background-color: #efefef;
+}
+body {
+	color: #fff;
+	text-align: center;
+	text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
 
+
+
+
+
+/********** Header **********/
 .jumbotron {
-	background-color:#444;
+	padding-top:50px;
+	background-color:#efefef;
 	opacity:0.9;
 }
-.jumbotron h1 {
-	color:#fff;
+.jumbotron h1, .jumbotron h2 {
+	color:#222;
 }
 
 
+
+/******* Main Content *******/
 * {
 	margin: 0;
 }
@@ -53,6 +78,9 @@ html, body {
 }
 
 
+#home-content h1 a {
+	font-size:2em;
+}
 #info {
 	font-size:1.5em;
 	cursor:pointer;
@@ -61,6 +89,91 @@ html, body {
 #info:hover {
 	color:#ff4400;
 }
+
+.home-input {
+	margin:10px inherit;
+	height:50px;
+}
+
+.cameraLogo {
+	margin:50px 0;
+}
+
+.camera-model {
+	//	@include vertical-align;
+	height:200px; // Temporary for collapsing divs
+	margin:0;
+	border:1px solid #333;
+	background-color:#efefef;
+}
+.camera-model h1 a {
+	padding:50px;
+	margin:-10px 0;
+}
+.camera-model h1 a:hover {
+	color:#ff4400;
+	text-decoration:none;
+}
+
+
+
+/********* Footer **********/
+footer {
+	background-color: #222;
+	padding: 16px 0;
+	margin:50px 0 0;
+	color: #999; /* IE8 proofing */
+	color: rgba(255,255,255,.5);
+}
+
+
+
+
+@media (min-width: 767px) {
+	body {
+		margin-top:40px;
+	}
+	.navbar {
+		padding: 20px 0;
+		-webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+		-moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+		transition: background .5s ease-in-out,padding .5s ease-in-out;
+	}
+
+	.top-nav-collapse {
+		padding: 0;
+	}
+
+
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+
+
+
+
+/*****************************************************/
+
+
+input {
+	color:#666;
+	text-transform:uppercase;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, x-ng-cloak {
+	display:none;
+}
+
+
+
+
+
+
+
 
 
 /********* Buttons ********
@@ -103,30 +216,14 @@ a.ghost-button:hover, a.ghost-button:active {
 }
 
 
-.home-input {
-	margin:10px inherit;
-	height:50px;
-}
 
-.cameraLogo {
-	margin:50px 0;
-}
-
-#canon, #nikon, #sony, #olympus {
-//	@include vertical-align;
-	height:100px; // Temporary for collapsing divs
-	margin:50px 0;
-}
-#sony {
-	margin-bottom:150px;
-}
 
 @media (min-width: 768px) {
-	#canon, #nikon, #sony, #olympus {
-		//	@include vertical-align;
-		height:150px; // Temporary for collapsing divs
-		margin:50px 0;
-	}
+	// #canon, #nikon, #sony, #olympus {
+	// 	//	@include vertical-align;
+	// 	height:150px; // Temporary for collapsing divs
+	// 	margin:50px 0;
+	// }
 }
 
 /******** Lens list ***********/
@@ -182,9 +279,3 @@ a.ghost-button:hover, a.ghost-button:active {
 
 
 /****** Footer ******/
-
-footer {
-	background-color: #222;
-	padding: 16px 0;
-	margin:50px 0 0;
-}
