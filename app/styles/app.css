@@ -29,17 +29,14 @@ body {
 
 body {
   color: #fff;
-  text-align: center;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5); }
+  text-align: center; }
 
 /********** Header **********/
 .jumbotron {
-  padding-top: 50px;
-  background-color: #efefef;
-  opacity: 0.9; }
+  background: url("../img/background/red-diamond-v1.png") #efefef repeat; }
 
 .jumbotron h1, .jumbotron h2 {
-  color: #222; }
+  color: #efefef; }
 
 /******* Main Content *******/
 * {
@@ -68,10 +65,11 @@ html, body {
 #info {
   font-size: 1.5em;
   cursor: pointer;
-  margin: 10px; }
+  margin: 10px;
+  color: #efefef; }
 
 #info:hover {
-  color: #ff4400; }
+  color: #999; }
 
 .home-input {
   margin: 10px inherit;
@@ -81,18 +79,52 @@ html, body {
   margin: 50px 0; }
 
 .camera-model {
-  height: 200px;
+  height: 300px;
   margin: 0;
-  border: 1px solid #333;
-  background-color: #efefef; }
+  border: 1px solid #ddd;
+  background-color: #efefef;
+  transition: background-color 0.2s ease-out, color 0.2s ease-in; }
+
+.camera-model:hover {
+  background-color: #cf5b34; }
 
 .camera-model h1 a {
-  padding: 50px;
-  margin: -10px 0; }
+  padding: 100px;
+  margin: -10px 0;
+  color: #444; }
 
 .camera-model h1 a:hover {
-  color: #ff4400;
+  color: #efefef;
   text-decoration: none; }
+
+/******** Lens list ***********/
+.lens-list {
+  padding-top: 20px;
+  text-shadow: none; }
+
+.lens-feature {
+  margin-top: -20px; }
+
+.lens-feature h1 {
+  color: #fff; }
+
+#lens-content {
+  background-color: #fefefe;
+  color: #333;
+  padding: 10px;
+  text-shadow: none; }
+
+#lens-content ul {
+  text-align: left; }
+
+.ind-lens {
+  height: 750px; }
+
+.lens-images {
+  margin: 20px auto; }
+
+.badge {
+  font-size: 1.5em; }
 
 /********* Footer **********/
 footer {
@@ -145,48 +177,18 @@ a.ghost-button {
   display: inline-block;
   width: 200px;
   padding: 8px;
-  background-color: #222;
-  color: #fff !important;
-  border: 2px solid #fff;
+  background-color: none;
+  color: #444 !important;
+  border: 2px solid #444;
   text-align: center;
   outline: none;
   text-decoration: none;
   transition: background-color 0.2s ease-out, color 0.2s ease-in; }
 
 a.ghost-button:hover, a.ghost-button:active {
-  background-color: #fff;
-  color: #000 !important;
-  transition: background-color 0.3s ease-in, color 0.3s ease-in; }
-
-/******** Lens list ***********/
-.lens-list {
-  padding-top: 20px;
-  text-shadow: none; }
-
-.lens-feature {
-  margin-top: -20px;
-  background-color: #fff; }
-
-.lens-feature h1 {
-  color: #ff6600; }
-
-#lens-content {
-  background-color: #fefefe;
-  color: #333;
-  padding: 10px;
-  text-shadow: none; }
-
-#lens-content ul {
-  text-align: left; }
-
-.ind-lens {
-  height: 750px; }
-
-.lens-images {
-  margin: 20px auto; }
-
-.badge {
-  font-size: 1.5em; }
+  background-color: #cf5b34;
+  color: #fff !important;
+  transition: background-color 0.2s ease-in, color 0.2s ease-in; }
 
 /* Login Modal */
 .ngdialog-message {
@@ -201,4 +203,65 @@ a.ghost-button:hover, a.ghost-button:active {
   text-align: left;
   padding: 0; }
 
-/****** Footer ******/
+/* TEST ANIMATIONS
+============================================================================= */
+/* leaving animations ----------------------------------------- */
+/* rotate and fall */
+@keyframes rotateFall {
+  0% {
+    transform: rotateZ(0deg); }
+
+  20% {
+    transform: rotateZ(10deg);
+    animation-timing-function: ease-out; }
+
+  40% {
+    transform: rotateZ(17deg); }
+
+  60% {
+    transform: rotateZ(16deg); }
+
+  100% {
+    transform: translateY(100%) rotateZ(17deg); } }
+
+/* slide in from the bottom */
+@keyframes slideOutLeft {
+  to {
+    transform: translateX(-100%); } }
+
+/* rotate out newspaper */
+@keyframes rotateOutNewspaper {
+  to {
+    transform: translateZ(-3000px) rotateZ(360deg);
+    opacity: 0; } }
+
+/* entering animations --------------------------------------- */
+/* scale up */
+@keyframes scaleUp {
+  from {
+    opacity: 0.3;
+    -webkit-transform: scale(0.8); } }
+
+/* slide in from the right */
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%); }
+
+  to {
+    transform: translateX(0); } }
+
+/* slide in from the bottom */
+@keyframes slideInUp {
+  from {
+    transform: translateY(100%); }
+
+  to {
+    transform: translateY(0); } }
+
+.ng-enter {
+  animation: scaleUp 0.5s both ease-in;
+  z-index: 8888; }
+
+.ng-leave {
+  animation: slideOutLeft 0.5s both ease-in;
+  z-index: 9999; }

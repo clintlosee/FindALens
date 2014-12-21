@@ -2,8 +2,8 @@
 
 var FindALens = angular.module('FindALens', ['ngRoute', 'findALensServices', 'ngDialog']);
 
-FindALens.config(['$routeProvider',
-  function($routeProvider) {
+FindALens.config(['$routeProvider', '$locationProvider',
+  function($routeProvider, $locationProvider) {
     $routeProvider
     .when('/', {
       templateUrl: 'views/home.html',
@@ -69,4 +69,7 @@ FindALens.config(['$routeProvider',
       templateUrl: 'views/nikon-travel.html',
       controller: 'LensController'
     });
+
+    // use HTML5 History API for pretty URLs
+    $locationProvider.html5Mode(true);
 }]);

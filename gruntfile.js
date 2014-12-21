@@ -26,7 +26,7 @@ module.exports = function(grunt){
 						'bower_components/angular-loader/angular-loader.js',
 						'bower_components/angular-mocks/angular-mocks.js',
 						'bower_components/angular-resource/angular-resource.js',
-						'bower_components/angular-animate/angular-animate.js',
+						'bower_components/angular-animate/angular-animate.min.js',
 						'bower_components/ngDialog/js/ngDialog.js'],
 					'app/scripts/frame.min.js': [
 						'bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js',
