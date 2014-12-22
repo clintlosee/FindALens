@@ -1,6 +1,6 @@
 'use strict';
 
-var FindALens = angular.module('FindALens', ['ngRoute', 'findALensServices', 'ngDialog']);
+var FindALens = angular.module('FindALens', ['ngRoute', 'findALensServices', 'ngDialog', 'ngAnimate']);
 
 FindALens.config(['$routeProvider', '$locationProvider',
   function($routeProvider, $locationProvider) {

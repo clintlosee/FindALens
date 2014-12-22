@@ -4,6 +4,7 @@ FindALens.controller('CanonController', function($scope) {
 
 FindALens.controller('HomeController', function($scope, $routeParams, CanonLens, NikonLens) {
   $scope.message = 'Welcome to Find-A-Lens';
+    $scope.pageClass = 'page-home';
 
   $scope.canonLenses = CanonLens.query();
   $scope.nikonLenses = NikonLens.query();
@@ -38,10 +39,6 @@ FindALens.controller('LensViewController', ['$scope', 'CanonLens', '$routeParams
     $scope.indLens = CanonLens.get({lensId: $routeParams.lensId});
 
 }]);
-
-FindALens.controller('MainController', function($scope) {
-  $scope.message = 'Main Controller';
-});
 
 FindALens.controller('MainCtrl', function($scope, ngDialog) {
 

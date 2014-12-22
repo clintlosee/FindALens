@@ -4,15 +4,13 @@
 * Globals
 */
 /* Links */
-a,
-a:focus,
-a:hover {
+/* line 12, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
+a, a:focus, a:hover {
   color: #fff; }
 
 /* Custom default button */
-.btn-default,
-.btn-default:hover,
-.btn-default:focus {
+/* line 19, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
+.btn-default, .btn-default:hover, .btn-default:focus {
   color: #333;
   text-shadow: none;
   /* Prevent inheritence from `body` */
@@ -22,62 +20,76 @@ a:hover {
 /*
 * Base structure
 */
-html,
-body {
+/* line 32, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
+html, body {
   height: 100%;
   background-color: #efefef; }
 
+/* line 36, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 body {
   color: #fff;
   text-align: center; }
 
 /********** Header **********/
+/* line 47, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .jumbotron {
   background: url("../img/background/red-diamond-v1.png") #efefef repeat; }
 
+/* line 50, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .jumbotron h1, .jumbotron h2 {
   color: #efefef; }
 
 /******* Main Content *******/
+/* line 57, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 * {
   margin: 0; }
 
+/* line 60, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 html, body {
   height: 100%;
   background: none; }
 
+/* line 64, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .wrapper {
   min-height: 100%;
   height: auto !important;
   height: 100%;
   margin: 0 auto -8em; }
 
+/* line 70, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .footer, .push {
   height: 4em; }
 
+/* line 73, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 #content {
   padding-top: 50px;
   padding-bottom: 20px; }
 
+/* line 79, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 #home-content h1 a {
   font-size: 2em; }
 
+/* line 82, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 #info {
   font-size: 1.5em;
   cursor: pointer;
   margin: 10px;
   color: #efefef; }
 
+/* line 88, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 #info:hover {
   color: #999; }
 
+/* line 92, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .home-input {
   margin: 10px inherit;
   height: 50px; }
 
+/* line 97, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .cameraLogo {
   margin: 50px 0; }
 
+/* line 101, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .camera-model {
   height: 300px;
   margin: 0;
@@ -85,48 +97,60 @@ html, body {
   background-color: #efefef;
   transition: background-color 0.2s ease-out, color 0.2s ease-in; }
 
+/* line 109, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .camera-model:hover {
   background-color: #cf5b34; }
 
+/* line 112, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .camera-model h1 a {
   padding: 100px;
   margin: -10px 0;
   color: #444; }
 
+/* line 117, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .camera-model h1 a:hover {
   color: #efefef;
   text-decoration: none; }
 
 /******** Lens list ***********/
+/* line 124, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .lens-list {
   padding-top: 20px;
   text-shadow: none; }
 
+/* line 129, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .lens-feature {
   margin-top: -20px; }
 
+/* line 132, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .lens-feature h1 {
   color: #fff; }
 
+/* line 136, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 #lens-content {
   background-color: #fefefe;
   color: #333;
   padding: 10px;
   text-shadow: none; }
 
+/* line 142, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 #lens-content ul {
   text-align: left; }
 
+/* line 146, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .ind-lens {
   height: 750px; }
 
+/* line 149, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .lens-images {
   margin: 20px auto; }
 
+/* line 153, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .badge {
   font-size: 1.5em; }
 
 /********* Footer **********/
+/* line 160, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 footer {
   background-color: #222;
   padding: 16px 0;
@@ -136,22 +160,29 @@ footer {
   color: rgba(255, 255, 255, 0.5); }
 
 @media (min-width: 767px) {
+  /* line 172, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
   body {
     margin-top: 40px; }
 
+  /* line 175, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
   .navbar {
     padding: 20px 0;
-    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-    transition: background .5s ease-in-out,padding .5s ease-in-out; }
+    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out; }
 
+  /* line 182, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
   .top-nav-collapse {
-    padding: 0; } }
+    padding: 0; }
+ }
+
 /*****************************************************/
+/* line 201, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 input {
   color: #666;
   text-transform: uppercase; }
 
+/* line 206, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, x-ng-cloak {
   display: none; }
 
@@ -173,6 +204,7 @@ input {
 	color: #000;
 }*/
 /************************************************ Simple Transition */
+/* line 237, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 a.ghost-button {
   display: inline-block;
   width: 200px;
@@ -185,20 +217,24 @@ a.ghost-button {
   text-decoration: none;
   transition: background-color 0.2s ease-out, color 0.2s ease-in; }
 
+/* line 250, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 a.ghost-button:hover, a.ghost-button:active {
   background-color: #cf5b34;
   color: #fff !important;
   transition: background-color 0.2s ease-in, color 0.2s ease-in; }
 
 /* Login Modal */
+/* line 272, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .ngdialog-message {
   text-transform: uppercase;
   padding: 10px 0;
   text-shadow: none; }
 
+/* line 277, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .loginInput {
   padding: 10px; }
 
+/* line 280, C:/Users/clint/Documents/Websites/FindALens/app/css/app.scss */
 .loginInput label {
   text-align: left;
   padding: 0; }
