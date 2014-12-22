@@ -32,11 +32,6 @@ module.exports = function(grunt){
 						'bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js',
 						'bower_components/bootstrap/dist/js/bootstrap.js']
 				}
-			},
-			scripts: {
-				files: {
-					'app/scripts/app.min.js': ['app/js/**/*.js']
-				}
 			}
 		},
 

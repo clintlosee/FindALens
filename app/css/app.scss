@@ -5,6 +5,7 @@
 /*
 * Globals
 */
+.page { position:relative; }
 
 /* Links */
 a,
@@ -46,6 +47,7 @@ body {
 /********** Header **********/
 .jumbotron {
 	background: url("../img/background/red-diamond-v1.png") #efefef repeat;
+    margin-bottom:0;
 }
 .jumbotron h1, .jumbotron h2 {
 	color:#efefef;
