@@ -57,7 +57,7 @@
 
 		<div class="lens-list">
 
-			<div class="col-sm-6 col-md-4 ind-lens" ng-repeat="canonLens in canonLenses | filter:query">
+			<div class="col-sm-6 col-md-4 ind-lens repeat-animation" ng-repeat="canonLens in canonLenses | filter:query">
 				<div class="thumbnail">
 					<a href="#/lens/{{ canonLens.id }}"><img ng-src="{{ canonLens.images[1] }}" class="img-responsive" alt="..."></a>
 					<div class="caption">
@@ -72,7 +72,7 @@
 				</div>
 			</div>
 
-			<div class="col-sm-6 col-md-4 ind-lens" ng-repeat="nikonLens in nikonLenses | filter:query">
+			<div class="col-sm-6 col-md-4 ind-lens repeat-animation" ng-repeat="nikonLens in nikonLenses | filter:query">
 				<div class="thumbnail">
 					<a href="#/lens/{{ nikonLens.id }}"><img ng-src="{{ nikonLens.images[0] }}" class="img-responsive" alt="..."></a>
 					<div class="caption">

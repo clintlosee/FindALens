@@ -22,7 +22,7 @@
   </div>
 
   <div class="row lens-list">
-    <div class="col-sm-6 col-md-4 ind-lens" ng-repeat="canonLens in canonLenses | filter: { bestUse: 'Travel' } | orderBy:orderProp | limitTo:numLimit">
+    <div class="col-sm-6 col-md-4 ind-lens repeat-animation" ng-repeat="canonLens in canonLenses | filter: { bestUse: 'Travel' } | orderBy:orderProp | limitTo:numLimit">
       <div class="thumbnail">
         <a href="#/lens/{{ canonLens.id }}"><img ng-src="{{ canonLens.images[1] }}" class="img-responsive" alt="..."></a>
         <div class="caption">
